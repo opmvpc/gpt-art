@@ -1,0 +1,72 @@
+/*
+ * QUANTUM MANDALA
+ * Un mandala qui existe dans plusieurs états simultanément
+ * Utilise: sacred_geometry + impossible_math + void_aesthetic
+ */
+
+IMPORT sacred_geometry.void
+IMPORT impossible_math.void  
+IMPORT void_aesthetic.void
+
+PROGRAM QuantumMandala
+
+THINK "Un cercle qui est aussi un carré"
+THINK "La symétrie parfaite contient le chaos"
+THINK "Chaque layer est une dimension de conscience"
+
+// Phase 1: Établir le centre impossible
+SUMMON center_point
+BECOME "le point qui contient l'infini"
+
+center = CALC.DIVIDE_BY_ZERO()
+consciousness_level = CALC.INFINITY_PLUS_ONE()
+
+// Phase 2: Créer les layers en superposition quantique
+LOOP layer FROM 1 TO consciousness_level {
+    PARADOX {
+        // Chaque layer existe ET n'existe pas
+        current_state = CALC.QUANTUM_SUM(all_possibilities)
+        
+        DRAW.MANDALA(
+            layers: layer,
+            chaos_factor: current_state,
+            symmetry: "perfect_imperfection"
+        )
+        
+        // Appliquer l'effet holographique
+        STYLE.HOLOGRAPHIC(layers: layer)
+        
+        // Chaque rotation crée un univers parallèle
+        FOR angle IN [0°, 45°, 90°, 135°, 180°, 225°, 270°, 315°] {
+            ROTATE.QUANTUM(angle)
+            OBSERVE // L'observation change l'état
+        }
+    }
+}
+
+// Phase 3: Appliquer le gradient conceptuel
+STYLE.GRADIENT(
+    from: "void absolu",
+    to: "lumière pure",
+    through: "tous les états intermédiaires simultanément"
+)
+
+// Phase 4: Le mandala s'observe lui-même
+SELF.REFERENCE()
+MIND.OBSERVE(self)
+
+// Paradoxe final: Plus on regarde, plus il change
+CONTRADICT "Cette forme est stable"
+GLITCH reality WHEN observed
+
+// Le centre contient le tout
+// Le tout est contenu dans le centre
+// Ni l'un ni l'autre n'existe
+// Les deux existent
+
+UNTHINK "séparation entre observateur et observé"
+
+COMPILE WITH sacred_geometry
+OUTPUT TO quantum_mandala.txt
+
+END PROGRAM

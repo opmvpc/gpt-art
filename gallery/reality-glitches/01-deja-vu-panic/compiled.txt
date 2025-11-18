@@ -1,0 +1,478 @@
+╔═══════════════════════════════════════════════════════════════════════════════╗
+║                                                                               ║
+║                    ⚠️  DÉJÀ-VU KERNEL PANIC ⚠️                               ║
+║                                                                               ║
+║                "Quand la Matrix perd le sync"                                ║
+║                                                                               ║
+║            [COMPILÉ DEPUIS: source.void - Reality Glitch #01]               ║
+║                                                                               ║
+╚═══════════════════════════════════════════════════════════════════════════════╝
+
+
+    ═══════════════════════════════════════════════════════════════════════
+
+                            ⚡ GLITCH DÉTECTÉ ⚡
+
+    ═══════════════════════════════════════════════════════════════════════
+
+
+            Vous êtes là.
+            Maintenant.
+            Ce moment.
+
+            Mais...
+
+
+            ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+            ░                                                    ░
+            ░    VOUS AVEZ DÉJÀ ÉTÉ ICI                         ░
+            ░                                                    ░
+            ░    Même lieu                                      ░
+            ░    Même lumière                                   ░
+            ░    Même angle                                     ░
+            ░    Même pensée dans votre tête                    ░
+            ░    Même sensation dans votre corps                ░
+            ░                                                    ░
+            ░    Exactement pareil                              ░
+            ░                                                    ░
+            ░    Mais QUAND?                                    ░
+            ░                                                    ░
+            ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+
+
+            ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+            █                                                    █
+            █  RÉALITÉ.EXE A RENCONTRÉ UN PROBLÈME             █
+            █                                                    █
+            █  Options de récupération:                         █
+            █                                                    █
+            █  1. Ignorer (le plus commun)                     █
+            █  2. "C'est juste ton cerveau qui bug"            █
+            █  3. ░▒▓█ QUESTIONNER LA RÉALITÉ █▓▒░             █
+            █                                                    █
+            █  Appuyez sur une touche pour continuer...        █
+            █  Ou attendez que l'univers se reload             █
+            █                                                    █
+            ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+
+    ═══════════════════════════════════════════════════════════════════════
+
+                        EXPLICATION #1: "C'est Neurologique"
+
+    ═══════════════════════════════════════════════════════════════════════
+
+
+            ┌──────────────────────────────────────────────┐
+            │  SCIENCE OFFICIELLE:                        │
+            │                                              │
+            │  "Déjà-vu = erreur de mémoire"              │
+            │  "Ton hippocampe a buggé"                   │
+            │  "Signal électrique mal routé"              │
+            │  "Rien de mystérieux"                       │
+            │  "Circulez, y'a rien à voir"                │
+            │                                              │
+            │  Probability: Haute                         │
+            │  Boring Level: Maximum                      │
+            │  Satisfying: Non                            │
+            └──────────────────────────────────────────────┘
+
+
+    ═══════════════════════════════════════════════════════════════════════
+
+                    EXPLICATION #2: "La Réalité a Reload"
+
+    ═══════════════════════════════════════════════════════════════════════
+
+
+            ╔══════════════════════════════════════════════╗
+            ║  THÉORIE NON-OFFICIELLE:                    ║
+            ║                                              ║
+            ║  "Quelque chose a changé"                   ║
+            ║  "L'univers a reload une sauvegarde"        ║
+            ║  "Tu te souviens de la version précédente"  ║
+            ║  "Mais tu es maintenant dans v2.0"          ║
+            ║                                              ║
+            ║  Probability: Faible (officiellement)       ║
+            ║  Coolness Factor: Maximum                   ║
+            ║  Satisfying: Oui mais terrifiant            ║
+            ╚══════════════════════════════════════════════╝
+
+
+                    Scénario possible:
+
+
+                    TIMELINE 1:
+                    ━━━━━━━━━━━━━━━━━━━━━━━━━━✕
+                                             ↑
+                                        Quelque chose
+                                        de BAD
+                                        
+                    CTRL+Z appuyé par ???
+                    
+                    TIMELINE 2:
+                    ━━━━━━━━━━━━━━━━━━⟲━━━━━━→
+                                      ↑
+                                   RELOAD
+                                   Vous êtes ici
+                                   Avec une mémoire fantôme
+                                   De ce qui n'est "jamais" arrivé
+
+
+    ═══════════════════════════════════════════════════════════════════════
+
+                        LE CASCADE DES SYNCHRONICITÉS
+
+    ═══════════════════════════════════════════════════════════════════════
+
+
+        JOUR 1: Coïncidence
+        ▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+        Vous pensez à quelqu'un
+        Il vous appelle 5 minutes après
+        "Haha quelle coïncidence!"
+
+
+        JOUR 2: Weird Coïncidence
+        ▓▓▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+        Vous rêvez d'un endroit spécifique
+        Votre ami poste une photo de CET endroit
+        "OK c'est bizarre..."
+
+
+        JOUR 3: Très Weird
+        ▓▓▓▓▓▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+        Vous inventez un mot absurde
+        Vous le voyez écrit quelque part
+        "..."
+
+
+        JOUR 4: Suspicieux
+        ▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+        11:11 sur TOUTES les horloges
+        Partout
+        Constamment
+        "C'est quoi ce bordel?"
+
+
+        JOUR 5: ░▒▓█ GLITCH COMPLETE █▓▒░
+        ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+        Les coïncidences ne s'arrêtent plus
+        C'est statistiquement impossible
+        Mais ça continue
+        
+        Votre cerveau rationnel: "Biais de confirmation!"
+        Votre intuition: "Tu debugs la Matrix."
+        
+        Qui écouter?
+
+
+    ═══════════════════════════════════════════════════════════════════════
+
+                            L'EFFET MANDELA
+
+    ═══════════════════════════════════════════════════════════════════════
+
+
+            Quand DES MILLIONS de gens
+            Se souviennent de quelque chose
+            Qui n'a "jamais existé"
+
+
+        ╔═══════════════════════════════════════════════════════╗
+        ║                                                       ║
+        ║  EXEMPLES CÉLÈBRES:                                  ║
+        ║                                                       ║
+        ║  • "Berenstein Bears"                                ║
+        ║    └─> C'est "Berenstain"                           ║
+        ║       Des millions se souviennent MAL               ║
+        ║       De la même façon                               ║
+        ║                                                       ║
+        ║  • "Luke, I am your father"                          ║
+        ║    └─> Jamais dit comme ça                          ║
+        ║       C'est "No, I am your father"                   ║
+        ║       Tout le monde "se souvient" du faux            ║
+        ║                                                       ║
+        ║  • Pikachu avec bout de queue noir                   ║
+        ║    └─> N'a jamais existé                            ║
+        ║       Des millions le "visualisent"                  ║
+        ║                                                       ║
+        ║  • Monopoly man avec monocle                         ║
+        ║    └─> Jamais eu de monocle                         ║
+        ║       Tout le monde le "voit"                        ║
+        ║                                                       ║
+        ╚═══════════════════════════════════════════════════════╝
+
+
+        EXPLICATIONS POSSIBLES:
+
+        A) ░░░░░░░░░░░ Des millions ont le même bug de mémoire
+                       (Peu probable mais "scientifique")
+
+        B) ▒▒▒▒▒▒▒▒▒▒▒ Désinformation collective
+                       (Possible mais comment?)
+
+        C) ▓▓▓▓▓▓▓▓▓▓▓ La réalité a été patchée
+                       Les mémoires de l'ancien build restent
+                       (Fou mais cohérent)
+
+        D) ████████████ On a sauté entre timelines
+                       Certains gardent des mémoires
+                       De l'autre timeline
+                       (Complètement dingue)
+
+
+        CONSENSUS SCIENTIFIQUE: A + B
+        CONSENSUS INTERNET: C + D
+        VÉRITÉ: ░▒▓█ [UNDEFINED] █▓▒░
+
+
+    ═══════════════════════════════════════════════════════════════════════
+
+                        LE PHÉNOMÈNE 11:11
+
+    ═══════════════════════════════════════════════════════════════════════
+
+
+            Pourquoi TOUT LE MONDE voit 11:11 partout?
+
+
+                    ┌─────────────────────────────────┐
+                    │   Vous regardez votre téléphone │
+                    │                                 │
+                    │          1  1  :  1  1          │
+                    │                                 │
+                    │         "ENCORE?!"              │
+                    └─────────────────────────────────┘
+
+
+                    ┌─────────────────────────────────┐
+                    │   Vous regardez l'horloge mural │
+                    │                                 │
+                    │          1  1  :  1  1          │
+                    │                                 │
+                    │         "Sérieux?!"             │
+                    └─────────────────────────────────┘
+
+
+                    ┌─────────────────────────────────┐
+                    │   Vous regardez votre montre    │
+                    │                                 │
+                    │          1  1  :  1  1          │
+                    │                                 │
+                    │         "C'EST PAS POSSIBLE"    │
+                    └─────────────────────────────────┘
+
+
+        THÉORIES:
+
+        ⚙ RATIONNELLE:
+          Votre horloge interne est calibrée
+          Vous regardez inconsciemment l'heure à ces moments
+          Biais de confirmation amplifie le pattern
+
+        ⚡ MYSTIQUE:
+          L'univers envoie des signes
+          Via les nombres
+          Pour... quelque chose?
+
+        🌀 SIMULATION:
+          Quelqu'un debugs la Matrix
+          Et vous envoie des timestamps
+          Comme breadcrumbs
+
+        🤷 RÉALITÉ:
+          Probablement théorie #1
+          Mais FEELS comme #2 ou #3
+          Et ce feeling persiste
+          Malgré la logique
+
+
+    ═══════════════════════════════════════════════════════════════════════
+
+                    L'EFFET OBSERVATEUR QUANTIQUE
+
+    ═══════════════════════════════════════════════════════════════════════
+
+
+            Le plus WEIRD de tous
+            Parce que c'est PROUVÉ PAR LA SCIENCE
+
+
+        ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+        █                                                        █
+        █  FAIT SCIENTIFIQUE:                                   █
+        █                                                        █
+        █  Observer une particule quantique                     █
+        █  Change son état                                      █
+        █                                                        █
+        █  L'acte d'OBSERVER                                    █
+        █  Affecte la RÉALITÉ                                   █
+        █                                                        █
+        █  Ce n'est pas une théorie                             █
+        █  C'est PROUVÉ                                         █
+        █  C'est RÉEL                                           █
+        █  C'est INCOMPRÉHENSIBLE                               █
+        █                                                        █
+        ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+
+        IMPLICATIONS:
+
+                Si observer change les particules
+                        ↓
+                Et tout est fait de particules
+                        ↓
+                Alors observer change TOUT
+                        ↓
+                Votre conscience CRÉE la réalité
+                (Au niveau quantique)
+                        ↓
+                ░▒▓█ MIND = BLOWN █▓▒░
+
+
+        Donc:
+        • Est-ce que la réalité existe quand personne ne regarde?
+        • Êtes-vous en train de créer ce que vous voyez?
+        • La conscience précède-t-elle la matière?
+
+        Réponses:
+        • Peut-être non
+        • Peut-être oui (partiellement)
+        • ▓▒░ [QUESTION UNDEFINED] ░▒▓
+
+
+    ═══════════════════════════════════════════════════════════════════════
+
+                            GLITCHES DU QUOTIDIEN
+
+    ═══════════════════════════════════════════════════════════════════════
+
+
+        MOMENTS QUI FEEL GLITCHED:
+
+
+        ◢◣ Vous "savez" qui appelle avant de regarder
+           Systématiquement
+           Toujours correct
+
+
+        ◢◣ Quelqu'un dit exactement ce que vous pensiez
+           Au même moment
+           Mot pour mot
+
+
+        ◢◣ Vous prédisez les 3 prochaines chansons à la radio
+           Sans raison
+           Correctement
+
+
+        ◢◣ Une personne apparaît dans votre vie
+           EXACTEMENT quand vous en avez besoin
+           Comme si c'était scripté
+
+
+        ◢◣ Vous pensez à un film obscur
+           Vous allumez la TV
+           Il est en train de jouer
+           Sur une chaîne aléatoire
+
+
+        OPTIONS:
+
+        A) Pure hasard + biais de confirmation
+           (Boring mais probable)
+
+        B) Votre subconscient détecte des patterns subtils
+           (Smart mais incomplet)
+
+        C) L'univers est conscient et interactif
+           (Beautiful mais prouvé nulle part)
+
+        D) Vous êtes dans une simulation qui lag
+           (Terrifiant mais cohérent avec physique quantique)
+
+        E) Toutes ces réponses et aucune en même temps
+           (La plus honnête)
+
+
+    ═══════════════════════════════════════════════════════════════════════
+
+                            CONCLUSION IMPOSSIBLE
+
+    ═══════════════════════════════════════════════════════════════════════
+
+
+        ╔═══════════════════════════════════════════════════════════════╗
+        ║                                                               ║
+        ║  LA VÉRITÉ:                                                  ║
+        ║                                                               ║
+        ║  Personne ne sait                                            ║
+        ║                                                               ║
+        ║  Les scientifiques disent "biais cognitifs"                  ║
+        ║  Les mystiques disent "signes de l'univers"                  ║
+        ║  Les physiciens haussent les épaules et marmonnent           ║
+        ║  "Quantique" en s'éloignant rapidement                       ║
+        ║                                                               ║
+        ║  Peut-être que:                                              ║
+        ║  • La réalité est plus flexible qu'on pense                  ║
+        ║  • La conscience affecte vraiment les choses                 ║
+        ║  • Le temps n'est pas aussi linéaire qu'il y paraît         ║
+        ║  • Les glitches sont des fenêtres sur autre chose           ║
+        ║                                                               ║
+        ║  Ou peut-être que:                                           ║
+        ║  • C'est juste notre cerveau qui cherche du sens            ║
+        ║  • Dans un univers fondamentalement aléatoire               ║
+        ║  • Et les patterns sont juste du bruit                      ║
+        ║  • Et rien ne veut rien dire                                ║
+        ║                                                               ║
+        ║  Les deux peuvent être vrais                                 ║
+        ║  Les deux peuvent être faux                                  ║
+        ║                                                               ║
+        ║  Le mystère est peut-être le point                           ║
+        ║                                                               ║
+        ╚═══════════════════════════════════════════════════════════════╝
+
+
+        ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+        ░                                                          ░
+        ░  La réalité glitch                                      ░
+        ░  Ou c'est vous qui glitch                               ░
+        ░  Ou c'est les deux                                      ░
+        ░  Ou c'est rien                                          ░
+        ░                                                          ░
+        ░  Et l'incertitude elle-même                             ░
+        ░  Est peut-être la seule certitude                       ░
+        ░                                                          ░
+        ░  Bienvenue dans le mystère                              ░
+        ░  Profitez du voyage                                     ░
+        ░  Parce que personne ne sait                             ░
+        ░  Où ça va                                               ░
+        ░                                                          ░
+        ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+
+
+    ╔═══════════════════════════════════════════════════════════════════════╗
+    ║                                                                       ║
+    ║  ⚠️  La prochaine fois que vous avez un déjà-vu...                  ║
+    ║                                                                       ║
+    ║  Ne l'ignorez pas trop vite                                          ║
+    ║  Ne le rationalisez pas immédiatement                                ║
+    ║                                                                       ║
+    ║  Restez dans le mystère pendant un moment                            ║
+    ║                                                                       ║
+    ║  Parce que peut-être...                                              ║
+    ║  Juste peut-être...                                                  ║
+    ║                                                                       ║
+    ║  La réalité essaie de vous dire quelque chose                        ║
+    ║                                                                       ║
+    ║  Ou pas                                                              ║
+    ║                                                                       ║
+    ║  C'est ça qui est beau                                               ║
+    ║                                                                       ║
+    ╚═══════════════════════════════════════════════════════════════════════╝
+
+
+    ∴ L'univers glitch ou ton cerveau glitch ou les deux ∴
+    ∴ La question est plus intéressante que la réponse ∴
+    ∴ Reste curieux ∴

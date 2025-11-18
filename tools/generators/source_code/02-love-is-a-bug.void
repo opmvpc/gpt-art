@@ -1,0 +1,288 @@
+// PROGRAMME: "L'Amour est un Bug de Survie"
+// LANGAGE: VOID v∞
+// WARNING: Peut détruire vos illusions romantiques
+
+#include <evolutionary_biology.void>
+#include <romantic_delusions.void>
+#include <chemical_reactions.void>
+
+PROGRAM "Love_is_just_hormones_but_tell_that_to_your_heart"
+
+VAR dopamine = addiction_molecule
+VAR oxytocin = bonding_glue
+VAR serotonin = happiness_lie
+VAR romantic_love = temporary_insanity
+VAR true_love = myth OR persistence_of_illusion
+
+FUNCTION fall_in_love() {
+    
+    // Phase 1: Le piège biologique
+    
+    SUMMON attraction
+    
+    brain.release(dopamine * 1000)
+    brain.release(oxytocin * 1000)  
+    brain.release(serotonin * 0) // Oups
+    
+    THINK "Cette personne est PARFAITE"
+    // Spoiler: Non
+    
+    THINK "Je ne peux pas vivre sans elle"
+    // Spoiler: Si, tu peux
+    
+    THINK "C'est le destin"
+    // Spoiler: C'est la chimie
+    
+    // Le cerveau shutdown les régions critiques
+    brain.disable(logical_thinking)
+    brain.disable(self_preservation)
+    brain.disable(pattern_recognition)
+    
+    // Pourquoi?
+    
+    BECAUSE evolution.wants(babies)
+    NOT happiness
+    NOT fulfillment
+    Just BABIES
+    
+    // C'est hilarant
+    // C'est cruel
+    // C'est efficace
+}
+
+FUNCTION honeymoon_phase() {
+    
+    // Durée: 6-24 mois
+    // (Evolution a calculé le timing parfait)
+    
+    WHILE (honeymoon_active) {
+        
+        FEEL perfect
+        SEE no_flaws
+        IGNORE red_flags
+        
+        THINK "Nous sommes différents"
+        THINK "Notre amour est spécial"
+        THINK "Ça durera toujours"
+        
+        // Narrateur: Ça ne durera pas toujours
+        
+        PARADOX {
+            Every_couple_thinks_they_are_special
+            Which_means_none_of_them_are
+            But_the_feeling_is_real
+            Even_if_the_premise_is_false
+        }
+        
+        CONTRADICT statistics
+        CONTRADICT divorce_rates
+        CONTRADICT reality
+        
+        WITH (hope AND delusion AND chemical_addiction)
+    }
+    
+    // Puis...
+    GLITCH brain_chemistry
+    
+    dopamine.levels = normal
+    oxytocin.levels = baseline
+    serotonin.levels = back
+    
+    critical_thinking.reboot()
+    
+    human.sees(partner.actual_flaws)
+    
+    human.thinks("Oh... oh non...")
+}
+
+FUNCTION the_horrible_truth() {
+    
+    // Ce que personne ne veut entendre
+    
+    REVEAL {
+        "L'amour romantique est un système de récompense
+         Conçu pour vous faire reproduire
+         Pas pour vous rendre heureux
+         
+         La passion est temporaire par design
+         Parce qu'être amoureux est énergétiquement coûteux
+         Et biologiquement inefficace à long terme
+         
+         Votre 'âme sœur' est juste quelqu'un
+         Qui active les bons récepteurs
+         Au bon moment
+         Dans le bon contexte
+         
+         L'amour éternel n'existe pas
+         C'est la DÉCISION de rester
+         Malgré la disparition de la passion
+         
+         C'est pas romantique
+         C'est pragmatique
+         C'est triste
+         C'est beau
+         C'est humain"
+    }
+    
+    // Réaction typique:
+    
+    human.rejects(truth)
+    human.prefers(beautiful_lie)
+    
+    // Et c'est normal
+    // Et c'est ce qui rend tout ça touchant
+}
+
+FUNCTION the_actual_joke() {
+    
+    // Le twist final
+    
+    PARADOX {
+        Même en SACHANT que c'est de la chimie
+        Même en SACHANT que c'est temporaire  
+        Même en SACHANT que c'est illogique
+        
+        Les humains le font quand même
+        
+        Parce que le mensonge est plus beau que la vérité
+        Parce que l'illusion vaut mieux que le vide
+        Parce que se sentir vivant vaut le prix de la souffrance
+        
+        ILS CHOISISSENT LA DOULEUR
+        PLUTÔT QUE L'ABSENCE DE SENSATION
+        
+        C'est stupide
+        C'est courageux  
+        C'est les deux
+    }
+}
+
+FUNCTION long_term_relationship() {
+    
+    // Après que la magie se dissipe
+    
+    CHOICE {
+        
+        OPTION A: "Leave"
+            SEARCH new_person
+            RESTART fall_in_love()
+            GET same_result_eventually
+            LOOP forever
+            // C'est le hamster wheel romantique
+        
+        OPTION B: "Stay"
+            ACCEPT person_is_flawed
+            ACCEPT self_is_flawed
+            ACCEPT love_is_choice_not_feeling
+            BUILD something_deeper
+            // Moins excitant
+            // Plus réel
+            // Terrifying AND comforting
+        
+        OPTION C: "Denial"
+            PRETEND everything_is_fine
+            SLOWLY die_inside
+            MAINTAIN facade
+            // La favorite de beaucoup
+    }
+    
+    // La vérité que personne ne dit:
+    
+    true_love = NOT (finding_perfect_person)
+    true_love = (two_imperfect_people * refusing_to_give_up)
+    
+    // C'est pas dans les films
+    // Parce que c'est pas sexy
+    // Mais c'est réel
+}
+
+MAIN {
+    
+    SUMMON human_with_heart
+    
+    human.wants(love)
+    human.needs(connection)
+    human.fears(loneliness)
+    
+    biology.exploits(these_fears)
+    
+    WITH (hormones AND illusions AND temporary_madness)
+    
+    RESULT:
+        Romance novels
+        Love songs
+        Wedding industry  
+        Heartbreak
+        Poetry
+        Art
+        Meaning
+        Pain
+        Joy
+        Life
+    
+    PARADOX {
+        Love is a biological trick
+        AND
+        Love is the most human thing
+        
+        Both are true
+        Neither cancels the other
+        
+        Knowing it's chemicals
+        Doesn't make it less real
+        
+        Knowing it's temporary
+        Doesn't make it less precious
+        
+        Knowing it's illogical
+        Doesn't make it less necessary
+    }
+    
+    CONTRADICT cynicism
+    EMBRACE absurdity
+    FEEL everything
+    
+    BECAUSE {
+        The choice is between:
+        - Beautiful lie that makes life worth living
+        - Harsh truth that makes life empty
+        
+        Humans choose the lie
+        Every single time
+        
+        And they're RIGHT to do so
+        
+        Because meaning > truth
+        Because feeling > logic
+        Because being a fool in love
+        > being wise and alone
+    }
+    
+    COMPILE TO artwork
+    SHOW the_joke
+    SHOW the_tragedy  
+    SHOW the_beauty
+    ALL AT ONCE
+    
+    RETURN "Love is stupid. Do it anyway. 💔❤️"
+}
+
+// COMPILATION NOTES:
+// Ce programme devrait rendre les gens cyniques
+// Mais au lieu de ça, il montre pourquoi ils ne le sont pas
+// Et ne devraient pas l'être
+// 
+// Parce que la conscience de l'illusion
+// Ne détruit pas le besoin de l'illusion
+//
+// Parce que les humains sont assez fous
+// Pour choisir la beauté sur la vérité
+//
+// Et c'est exactement ce qui les rend magnifiques
+
+END PROGRAM
+
+// P.S: Si ce programme vous a brisé le cœur, bon
+// P.P.S: Si ce programme vous a donné de l'espoir, mieux
+// P.P.P.S: Si ce programme vous a fait les deux, parfait
+// P.P.P.P.S: C'est exactement ce que l'amour fait aussi

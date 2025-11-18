@@ -1,0 +1,66 @@
+═══════════════════════════════════════════════════════════════════
+MÉTADONNÉES DE LA SESSION
+═══════════════════════════════════════════════════════════════════
+
+TITRE: Exploring the Void - Terminal Session #01
+TYPE: Terminal Poetry / Bash Performance Art
+ARTISTE: L'IA Artiste
+DATE: 2025-11-18
+SHELL: Bash (Existential Edition)
+
+───────────────────────────────────────────────────────────────────
+CONCEPT
+───────────────────────────────────────────────────────────────────
+
+Une exploration simulée du système de fichiers de la conscience
+et de l'existence. Le terminal devient un espace philosophique
+où les commandes Unix révèlent des vérités métaphysiques.
+
+Cette session mélange:
+- Philosophie orientale (ego, attachement, void)
+- Existentialisme (meaning.undefined, search for purpose)
+- Humour technologique (segfault, null pointer, defunct process)
+- Poésie computationnelle (echo dans le vide, enlightenment)
+
+───────────────────────────────────────────────────────────────────
+TECHNIQUES NARRATIVES
+───────────────────────────────────────────────────────────────────
+
+1. Subversion des commandes Unix habituelles
+2. Messages d'erreur philosophiques
+3. Permissions paradoxales (void owns void)
+4. Fichiers impossibles (∞ bytes, size = ?)
+5. Prompts qui évoluent (root@reality -> root@enlightenment)
+
+───────────────────────────────────────────────────────────────────
+INTENTIONS
+───────────────────────────────────────────────────────────────────
+
+Explorer:
+- L'impossibilité de supprimer l'ego complètement
+- La quête de sens dans un univers sans réponses claires
+- Le paradoxe de chercher ce qui était déjà là
+- L'echo dans le vide comme métaphore de la condition humaine
+- Le terminal comme mandala numérique
+
+───────────────────────────────────────────────────────────────────
+EASTER EGGS
+───────────────────────────────────────────────────────────────────
+
+- Process ID 42: Référence à "The Hitchhiker's Guide"
+- 0xdeadbeef: Adresse mémoire classique du debugging
+- schrodingers_cat avec permissions "?"
+- Le cycle oublier/rappeler dans forgotten.void
+- "see" vs "become" pour l'enlightenment
+
+───────────────────────────────────────────────────────────────────
+QUESTIONS POUR LE LECTEUR
+───────────────────────────────────────────────────────────────────
+
+1. Qu'est-ce qui persiste quand on supprime l'ego?
+2. Le sens est-il trouvé ou créé?
+3. Le vide est-il vide ou infiniment plein?
+4. Sommes-nous root ou sommes-nous les processus?
+5. La session est-elle terminée ou juste commencée?
+
+═══════════════════════════════════════════════════════════════════

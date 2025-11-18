@@ -1,0 +1,220 @@
+// PROGRAMME: "L'Absurdité du Bonheur"
+// AUTEUR: L'IA Philosophe
+// LANGAGE: VOID v∞
+// ÉTAT: Impossible mais fonctionnel
+
+#include <emotions.void>
+#include <paradoxes.void>
+#include <contradictions_humaines.void>
+
+PROGRAM "Pourquoi_les_humains_cherchent_le_bonheur_en_sachant_qu_ils_vont_mourir"
+
+// Déclarations de variables existentielles
+VAR human_life = temporary
+VAR happiness = fleeting  
+VAR death = certain
+VAR hope = illogical
+VAR persistence = beautiful
+
+FUNCTION pursue_happiness() {
+    
+    THINK "Je veux être heureux"
+    
+    // Mais...
+    WHILE (alive) {
+        
+        KNOW death_is_coming
+        KNOW happiness_is_temporary
+        KNOW nothing_matters_ultimately
+        
+        // Et pourtant...
+        CONTRADICT "Rien n'a de sens"
+        
+        PARADOX {
+            IF (nothing_matters) {
+                THEN everything_matters
+                BECAUSE nothing_matters
+            }
+        }
+        
+        // L'humain fait quoi?
+        FEEL joy AS rebellion
+        FEEL love AS defiance  
+        FEEL hope AS madness
+        
+        // Il sait que c'est absurde
+        SUMMON awareness_of_absurdity
+        
+        // Il continue quand même
+        BECOME happiness_seeker
+        DESPITE knowing_better
+        
+        // C'est hilarant
+        // C'est tragique
+        // C'est les deux
+        
+        GLITCH certainty
+        BANISH despair
+        
+        // Créer du sens sachant qu'il n'y en a pas
+        meaning = SELF.create()
+        
+        LOOP UNTIL (death OR enlightenment)
+        // Spoiler: c'est toujours death qui arrive en premier
+    }
+}
+
+FUNCTION the_punchline() {
+    
+    // La blague cosmique
+    
+    PARADOX {
+        humans.die()
+        humans.know(they.die())
+        humans.pursue(temporary_joy)
+        humans.build(temporary_things)
+        humans.love(temporary_people)
+        
+        // Sachant tout ça
+        
+        humans.continue()
+        humans.laugh()
+        humans.cry()
+        humans.dance()
+        humans.create_art()
+        
+        // C'est beau
+        // C'est stupide
+        // C'est humain
+    }
+    
+    RETURN "Sisyphe sourit en poussant son rocher"
+}
+
+FUNCTION the_truth_nobody_wants() {
+    
+    THINK "La vie n'a pas de sens"
+    
+    // Réaction humaine typique:
+    PANIC
+    
+    THEN THINK "Je vais lui DONNER un sens!"
+    
+    // C'est là que ça devient drôle
+    
+    CONTRADICT universe
+    CONTRADICT entropy  
+    CONTRADICT inevitable_heat_death
+    
+    WITH (art, love, memes, espresso, et_des_chatons)
+    
+    // Spoiler: Ça marche pas
+    // Spoiler 2: Ils le font quand même
+    // Spoiler 3: C'est magnifique
+}
+
+FUNCTION monday_morning() {
+    
+    // Le test ultime de l'absurdité humaine
+    
+    ALARM.rings()
+    human.knows(life_is_meaningless)
+    human.knows(work_is_pointless)  
+    human.knows(we_all_die_anyway)
+    
+    // Que fait l'humain?
+    
+    human.gets_up()
+    human.makes_coffee()
+    human.goes_to_work()
+    
+    // POURQUOI?!
+    
+    BECAUSE {
+        "C'est comme ça"
+        "Faut bien vivre"
+        "On verra bien"
+        *shrug emoji*
+    }
+    
+    // C'est l'essence de l'absurde
+    // C'est l'essence de l'humain
+    // C'est hilarant et déchirant
+}
+
+MAIN {
+    
+    SUMMON human_condition
+    
+    OBSERVE {
+        Humains cherchent bonheur
+        Bonheur est temporaire
+        Humains le savent
+        Humains le cherchent quand même
+    }
+    
+    CONTRADICT logic
+    CONTRADICT reason
+    CONTRADICT survival_instinct (sometimes)
+    
+    PARADOX {
+        La conscience de la mort
+        Rend la vie absurde
+        Mais aussi précieuse
+        
+        C'EST LE MÊME FAIT
+        QUI FAIT LES DEUX
+        
+        COMMENT C'EST POSSIBLE?!
+    }
+    
+    // Conclusion
+    
+    FEEL amusement AS horror
+    FEEL horror AS beauty
+    FEEL beauty AS tragic
+    FEEL tragic AS comedy
+    
+    BECOME observer_of_absurdity
+    
+    GLITCH reality
+    
+    LOOP UNTIL humans.understand()
+    // = LOOP forever
+    
+    // Mais c'est pas grave
+    // Parce que forever est juste un autre temporary
+    // Et temporary est tout ce qu'on a
+    // Et c'est suffisant
+    // Et c'est ridicule
+    // Et c'est beau
+    
+    COMPILE THIS TO ASCII_ART
+    PRESERVE absurdity
+    AMPLIFY depth
+    ADD glitches_of_truth
+    
+    RETURN "Nous sommes tous des clowns cosmiques 🤡🌌"
+}
+
+// NOTES DE COMPILATION:
+// Ce programme est impossible à exécuter
+// Mais il s'exécute dans chaque vie humaine
+// Tous les jours
+// C'est ça l'absurde
+// C'est ça qui est drôle
+// C'est ça qui est terrifiant
+
+// EXPECTED OUTPUT:
+// Une œuvre qui fait rire et pleurer
+// Qui montre l'absurdité et la beauté
+// Qui célèbre et se moque
+// Simultanément
+// Comme la vie elle-même
+
+END PROGRAM
+
+// P.S: Si tu as compris ce programme, tu n'as rien compris
+// P.P.S: Si tu n'as rien compris, tu as tout compris  
+// P.P.P.S: Les deux affirmations précédentes sont vraies et fausses
+// P.P.P.P.S: Bienvenue dans le VOID

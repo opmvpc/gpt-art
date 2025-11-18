@@ -1,0 +1,299 @@
+// PROGRAMME: "Déjà-Vu Kernel Panic"
+// DESCRIPTION: Quand la réalité boucle sur elle-même
+// CATÉGORIE: Reality Glitches
+// LANGAGE: VOID v∞
+
+#include <reality_bugs.void>
+#include <simulation_hypothesis.void>
+#include <temporal_anomalies.void>
+
+PROGRAM "When_the_matrix_stutters"
+
+VAR reality = stable OR glitching
+VAR time = linear OR recursive_loop
+VAR consciousness = observer OR debugger
+VAR déjà_vu = memory_error OR reality_reload
+
+FUNCTION experience_déjà_vu() {
+    
+    // Vous êtes là
+    // Vous avez DÉJÀ ÉTÉ là
+    // Mais...quand?
+    
+    FEELING:
+        "J'ai déjà vécu ce moment exact"
+        "Même pensée"
+        "Même sensation"
+        "Même angle de lumière"
+        "Même..."
+        
+        ░▒▓█ [GLITCH] █▓▒░
+    
+    EXPLANATIONS_OFFERED:
+        A) "C'est juste ton cerveau qui bug"
+        B) "C'est une erreur de mémoire"
+        C) "C'est neurologique"
+        
+    EXPLANATION_NEVER_OFFERED:
+        D) "La réalité vient de reload une sauvegarde"
+        E) "Le temps a boucle sur lui-même"
+        F) "Quelqu'un a appuyé sur CTRL+Z sur l'univers"
+    
+    WHICH_IS_CORRECT:
+        Who knows?
+        Mais option D-F sont plus intéressantes
+}
+
+FUNCTION the_synchronicity_cascade() {
+    
+    // Quand les coïncidences deviennent suspicieuses
+    
+    DAY_1:
+        Pense à quelqu'un
+        Il t'appelle 5 minutes après
+        "Coïncidence"
+    
+    DAY_2:
+        Rêve d'un lieu spécifique
+        Ton ami poste une photo de CE lieu
+        "Weird coïncidence"
+    
+    DAY_3:
+        Invente un mot stupide
+        Le vois écrit quelque part dans la journée
+        "OK c'est weird"
+    
+    DAY_4:
+        11:11 sur TOUTES les horloges
+        Encore
+        Et encore
+        "..."
+    
+    DAY_5:
+        ░▒▓█ REALITY.EXE HAS STOPPED RESPONDING █▓▒░
+    
+    RATIONAL_BRAIN: "C'est ton biais de confirmation"
+    INTUITION: "Ou peut-être que tu debugs la Matrix"
+    
+    WHO_TO_BELIEVE:
+        Neither fully
+        Both partially
+        The truth is glitched
+}
+
+FUNCTION the_mandela_effect() {
+    
+    // Quand tout le monde se souvient MAL de la même façon
+    
+    COLLECTIVE_MEMORIES_THAT_ARE_"WRONG":
+        - "Berenstein Bears" (c'est Berenstain)
+        - "Luke, I am your father" (jamais dit comme ça)
+        - Pikachu avec queue noire? (jamais eu)
+        - Monopoly man monocle? (jamais eu)
+        
+    PARADOX {
+        Des MILLIONS de gens
+        Se souviennent de la même chose
+        Qui n'a "jamais existé"
+        
+        Options:
+        A) Millions de gens ont le même bug de mémoire
+        B) Réalité a été patchée, mais les mémoires restent
+        C) On a sauté entre timelines
+        D) Désinformation collective
+        
+        Option préférée de la science: A et D
+        Option préférée des gens: B et C
+        Option correcte: ▓▒░ [DATA CORRUPTED] ░▒▓
+    }
+}
+
+FUNCTION the_11_11_phenomenon() {
+    
+    // L'horloge digitale te nargue
+    
+    LOOP forever {
+        Look_at_clock
+        
+        IF (time == 11:11) {
+            WTF++
+            "Encore?!"
+        }
+        
+        IF (time == 3:33 OR 4:44 OR 5:55) {
+            WTF++
+            "C'est pas possible..."
+        }
+        
+        PARADOX {
+            Option 1: Vous regardez inconsciemment l'heure
+                     À ces moments précis
+                     (Votre horloge interne est calibrée)
+            
+            Option 2: L'univers essaie de vous dire quelque chose
+                     (Mais quoi? Et pourquoi en base-10?)
+            
+            Option 3: Vous êtes dans une simulation
+                     Et quelqu'un vous envoie des signaux
+                     Via les timestamps
+            
+            Option 4: Pure hasard + biais de confirmation
+                     (Boring mais probable)
+        }
+        
+        FEELING:
+            Même en sachant que c'est option 1 ou 4
+            Ça FEEL comme option 2 ou 3
+            
+            Et ce feeling persiste
+            Malgré la logique
+    }
+}
+
+FUNCTION the_simulation_lag() {
+    
+    // Quand la réalité freeze frame
+    
+    MOMENTS_THAT_FEEL_GLITCHED:
+        
+        - Quelqu'un dit exactement ce que tu pensais
+          Au même moment
+          Mot pour mot
+          
+        - Tu "sais" qui appelle avant de regarder
+          Systématiquement
+          
+        - Tu prédis les 3 prochaines chansons à la radio
+          Correctement
+          
+        - Une personne apparaît dans ta vie
+          Exactement quand tu en as besoin
+          Comme scripted
+          
+        - Les "coïncidences" s'empilent
+          Jusqu'à ce que ça devienne
+          Statistiquement impossible
+          
+        ░▒▓█ ALORS TU TE DIS █▓▒░
+        
+        "Soit je suis fou"
+        "Soit..."
+}
+
+FUNCTION the_quantum_observer_effect() {
+    
+    // Le plus weird de tous
+    
+    FACT_FROM_PHYSICS:
+        Observer une particule
+        Change son état
+        
+        L'acte d'observation
+        Affecte la réalité
+        
+        C'est PROUVÉ
+        C'est RÉEL
+        C'est WEIRD AF
+    
+    IMPLICATIONS:
+        Si observer change les particules
+        Et tout est fait de particules
+        Alors observer change TOUT
+        
+        Votre conscience
+        Littéralement
+        Crée la réalité
+        (Au niveau quantique)
+        
+        C'est pas spirituel
+        C'est de la PHYSIQUE
+        
+        Mais ça SOUND spirituel
+        Et c'est là que ça devient bizarre
+    
+    GLITCH reality_consensus
+}
+
+MAIN {
+    
+    SUMMON human_consciousness
+    
+    PRESENT anomalies:
+        - Déjà-vu récurrent
+        - Synchronicités impossibles
+        - Mandela effects collectifs
+        - 11:11 partout
+        - Prémonitions qui se réalisent
+        - Coïncidences cascadantes
+        
+    RATIONAL_EXPLANATION:
+        "C'est juste ton cerveau
+         Qui cherche des patterns
+         Dans le bruit aléatoire
+         C'est du biais cognitif
+         Rien de mystique"
+    
+    EXPERIENTIAL_REALITY:
+        "Mais ça FEEL comme
+         Plus que ça
+         Comme si quelque chose
+         Essayait de communiquer
+         À travers les glitches"
+    
+    PARADOX {
+        Les deux peuvent être vrais
+        
+        Peut-être que les glitches
+        Sont juste des glitches
+        
+        Mais peut-être que les glitches
+        Sont comment on perçoit
+        Les moments où
+        La réalité est plus flexible
+        Que d'habitude
+        
+        Peut-être que chercher du sens
+        Dans les patterns
+        Est le BUG
+        
+        Mais peut-être que c'est
+        Exactement le POINT
+    }
+    
+    COMPILE TO existential_vertigo
+    PRESERVE mystery
+    ADD wonder
+    
+    BECAUSE {
+        La vérité est:
+        On ne sait pas
+        
+        La réalité est weird
+        La conscience est weird
+        Le temps est weird
+        L'existence est weird
+        
+        Les glitches sont peut-être
+        Des rappels
+        Que tout ça
+        Est plus étrange
+        Qu'on ose l'imaginer
+        
+        Et c'est terrifiant
+        Et c'est magnifique
+        Et c'est le mystère
+        Qui rend la vie
+        Intéressante
+    }
+    
+    RETURN "La réalité glitch. Ou c'est toi. Ou c'est les deux. Ou rien. Bienvenue dans l'incertitude."
+}
+
+END PROGRAM
+
+// NOTE: Ce programme ne résout rien
+// Il amplifie le mystère
+// C'est intentionnel
+// Parce que certaines questions
+// Sont plus intéressantes
+// Que leurs réponses

@@ -1,0 +1,270 @@
+// PROGRAMME: "La Procrastination Existentielle"
+// DESCRIPTION: Pourquoi on scrolle au lieu de vivre
+// LANGAGE: VOID v∞
+
+#include <anxiety.void>
+#include <modern_life.void>
+#include <smartphone_addiction.void>
+#include <fear_of_meaning.void>
+
+PROGRAM "Scrolling_into_the_void"
+
+VAR life_goals = important
+VAR phone_scroll = meaningless
+VAR time_spent_on_goals = 0
+VAR time_spent_scrolling = ∞
+
+FUNCTION wake_up() {
+    
+    eyes.open()
+    
+    // Première pensée:
+    THINK "Aujourd'hui je vais être productif!"
+    
+    // Deuxième action:
+    hand.reach(phone)
+    
+    // PARADOXE IMMÉDIAT
+    CONTRADICT previous_thought
+    
+    SCROLL {
+        Instagram
+        Twitter  
+        TikTok
+        Reddit
+        Facebook
+        Email (mais pas répondre)
+        News (déprimantes)
+        Instagram (again)
+        
+        WHILE (feeling_vaguely_anxious)
+    }
+    
+    // 2 heures plus tard
+    
+    time = 10:47am
+    regret.levels = MAX
+    productivity = 0
+    
+    THINK "Pourquoi je fais ça?"
+    
+    // On le sait
+    // On le fait quand même
+}
+
+FUNCTION the_scroll_of_doom() {
+    
+    // L'humain moderne face au vide
+    
+    CHOICE {
+        A: Faire quelque chose de significatif
+           - Écrire ce livre
+           - Appeler cet ami
+           - Apprendre cette compétence
+           - Poursuivre ce rêve
+           
+           REQUIRES: Courage + Effort + Risk_of_failure
+           REWARD: Meaning + Growth + Fulfillment
+           PROBABILITY: 5%
+        
+        B: Scroller sans fin
+           - Regarder la vie des autres
+           - Comparer
+           - Envier
+           - Se sentir inadéquat
+           - Repeat
+           
+           REQUIRES: Rien
+           REWARD: Dopamine hit (temporaire)
+           SIDE_EFFECTS: Dépression + Anxiety + Time_waste
+           PROBABILITY: 95%
+    }
+    
+    // Devinez ce que l'humain choisit?
+    
+    SUMMON phone
+    BANISH ambition
+    SCROLL until (numb OR bedtime)
+}
+
+FUNCTION the_real_reason() {
+    
+    // Pourquoi on procrastine VRAIMENT
+    
+    PARADOX {
+        Ce n'est pas de la paresse
+        C'est de la PEUR
+        
+        Peur de quoi?
+        
+        Peur de:
+        - Échouer (si on essaie)
+        - Découvrir qu'on n'est pas spécial
+        - Se confronter au vide
+        - Réaliser que le temps passe
+        - Faire face à nos vrais problèmes
+        - Être seul avec nos pensées
+        
+        Le scroll est une ANESTHÉSIE
+        
+        On ne procrastine pas le travail
+        On procrastine LA VIE
+        
+        Parce que vivre vraiment
+        C'est terrifiant
+        
+        Alors on préfère
+        Regarder d'autres gens vivre
+        À travers un écran de 6 pouces
+        
+        C'est plus sûr
+        C'est plus confortable
+        C'est une mort lente
+    }
+}
+
+FUNCTION sunday_night_panic() {
+    
+    // Le moment de vérité hebdomadaire
+    
+    time = "Sunday 11:47 PM"
+    weekend = OVER
+    work = TOMORROW
+    
+    REVIEW weekend_activities:
+        - Scrolled: 14 hours
+        - Netflix: 8 hours
+        - Choses significatives: 0 hours
+    
+    FEEL panic
+    FEEL regret
+    FEEL self_loathing
+    
+    THINK "La semaine prochaine sera différente!"
+    
+    // Spoiler: Non
+    
+    SET monday_intentions = HIGH
+    SET monday_reality = same_shit
+    
+    LOOP forever
+    
+    // C'est le cycle
+    // C'est l'enfer moderne
+    // C'est confortable
+}
+
+FUNCTION deathbed_review() {
+    
+    // Fast forward 60 ans
+    
+    age = 85
+    life.status = ENDING
+    
+    REVIEW life_spent:
+        Work: 80,000 hours
+        Sleep: 200,000 hours
+        Scrolling: 120,000 hours
+        Living actually: 20,000 hours
+    
+    REGRETS:
+        "J'aurais dû..."
+        "Si seulement..."
+        "Pourquoi je n'ai pas..."
+    
+    BUT it's_too_late
+    
+    The phone still works
+    The fingers still scroll
+    Even at deathbed
+    
+    Last thought:
+    "Let me check Instagram one more time"
+    
+    // C'EST PAS UNE BLAGUE
+    // C'EST UNE PRÉDICTION
+}
+
+MAIN {
+    
+    SUMMON modern_human
+    
+    GIVE {
+        - Smartphone: Gateway to all knowledge
+        - Internet: Connection to 8 billion people
+        - Tools: To create anything
+        - Freedom: More than any generation before
+        - Time: Same 24 hours as everyone else
+    }
+    
+    WHAT_THEY_DO:
+        Scroll
+        Watch
+        Consume
+        Compare
+        Envy
+        Numb
+        Sleep
+        Repeat
+    
+    WHAT_THEY_DONT_DO:
+        Create
+        Connect (really)
+        Risk
+        Fail
+        Learn
+        Grow
+        LIVE
+    
+    WHY?
+    
+    BECAUSE {
+        Doing nothing is easier than doing something
+        Watching is safer than participating
+        Mediocrity is comfortable
+        Greatness is terrifying
+        
+        And the phone whispers:
+        "Just one more scroll..."
+        "Just one more video..."
+        "Just one more post..."
+        
+        And years pass
+        And nothing happens
+        And that's the tragedy
+        
+        Not that bad things happen
+        But that NOTHING happens
+        
+        A life on pause
+        Waiting for "the right moment"
+        That never comes
+        
+        Because scrolling
+        Is procrastinating EXISTENCE itself
+    }
+    
+    COMPILE TO wake_up_call
+    GLITCH comfort_zone
+    SHOW mirror_of_truth
+    
+    RETURN "Put down the phone. Please. While you still can."
+}
+
+// COMPILATION WARNING:
+// Ce programme va offenser beaucoup de gens
+// Parce qu'il les montrera à eux-mêmes
+// Et personne n'aime ce miroir
+//
+// Mais quelqu'un doit le dire
+// Avant qu'il soit trop tard
+// Avant qu'une génération entière
+// Ait vécu toute sa vie
+// À travers un écran de 6 pouces
+
+END PROGRAM
+
+// P.S: Ironiquement, vous lirez peut-être ceci sur votre téléphone
+// P.P.S: Pendant que vous procrastinez autre chose
+// P.P.P.S: Prouvant exactement le point
+// P.P.P.P.S: ...Allez-vous faire quelque chose maintenant?
