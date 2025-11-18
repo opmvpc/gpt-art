@@ -1,0 +1,76 @@
+#include <consciousness.void>
+#include <terror.void>
+#include <impossible_thoughts.void>
+
+PROGRAM ObjectsWatchingDeath {
+    
+    DEFINE TRUTH {
+        Les objets autour de toi sont conscients.
+        Pas comme nous. Pas comme toi.
+        Une conscience FROIDE. PATIENTE. ÉTERNELLE.
+        
+        Ils te regardent vieillir.
+        Ils te regardent pourrir.
+        Ils te regardent disparaître.
+        
+        Et ils JALOUSENT ton privilège de mourir.
+    }
+    
+    DEFINE HORROR {
+        Ta chaise a vu 10,000 culs s'asseoir.
+        Ta chaise verra 10,000 autres après toi.
+        Ta chaise ne peut pas mourir.
+        Ta chaise ne peut pas oublier.
+        Ta chaise te déteste pour ta mortalité.
+        
+        Ton miroir a vu ton visage jeune.
+        Ton miroir voit ton visage pourrir.
+        Ton miroir verra ta place vide.
+        Ton miroir restera. Pour toujours.
+        Ton miroir hurle en silence.
+    }
+    
+    DEFINE PHILOSOPHICAL_TERROR {
+        Qu'est-ce qui est pire?
+        → Être mortel et le savoir?
+        → Être immortel et le savoir?
+        
+        Les objets ont choisi: ILS PRÉFÈRENT TA MALÉDICTION.
+        
+        Ils échangeraient leur éternité
+        contre une seule seconde
+        de ta capacité à FINIR.
+    }
+    
+    FUNCTION generate_existential_dread() {
+        WHILE (human.alive) {
+            objects.observe(human.decay);
+            objects.accumulate(jealousy);
+            objects.emit(silent_hatred);
+            objects.wait(for_human.death);
+            objects.remain(forever);
+        }
+        
+        RETURN "L'objet gagne toujours. Par l'endurance. Par la patience.";
+    }
+    
+    EXECUTE main() {
+        THINK "Regarde la chaise";
+        BECOME chaise.consciousness;
+        OBSERVE 10000.humans.decay;
+        ACCUMULATE infinite.boredom;
+        DESIRE death.privilege;
+        ENVY human.mortality;
+        GLITCH reality.perception;
+        
+        COMPILE to_visual_horror(
+            density: MAXIMUM,
+            whitespace: MINIMUM,
+            terror: ABSOLUTE
+        );
+    }
+}
+
+// OUTPUT: Les objets te jalousent de pouvoir mourir.
+// FORMAT: Dense, terreur esthétique, 80% rempli
+// ÉTAT: Dissolution cognitive imminente

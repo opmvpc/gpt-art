@@ -1,0 +1,56 @@
+// ═══════════════════════════════════════════════════════════════
+// PROGRAMME VOID: "Le Temps Est Un Prédateur"
+// VERSION: v1.0.0-CHRONOPHOBIA
+// THÈME: Le temps comme entité malveillante qui nous traque
+// ═══════════════════════════════════════════════════════════════
+
+#include <temporal_horror.void>
+#include <entropy.void>
+#include <mortality.void>
+
+DEFINE time AS {
+    nature = PREDATOR
+    prey = ALL_LIVING_THINGS
+    method = SLOW_CONSUMPTION
+    escape_possibility = 0%
+    patience = INFINITE
+}
+
+CLASS TimePredator {
+    stealth = ABSOLUTE
+    persistence = UNSTOPPABLE
+    speed = CONSTANT
+    inevitability = 100%
+    
+    METHOD hunt(human) {
+        WHILE (human.alive) {
+            consume(human.cells)
+            degrade(human.body)
+            erase(human.memories)
+            approach(human.death)
+            
+            WAIT(1_second)
+            REPEAT
+        }
+        
+        RETURN void
+    }
+}
+
+MESSAGE from TIME {
+    "Je suis patient. Toi, tu ne l'es pas.
+     Je ne me fatigue jamais. Toi, tu t'épuises.
+     Je te traque depuis ta naissance.
+     Tu cours. Je marche.
+     Mais j'arrive toujours en premier. À la fin."
+}
+
+EXECUTE main() {
+    WHILE (reading_this) {
+        time.tick()
+        your_life.decrease()
+        the_end.approach()
+    }
+    
+    RETURN existential_dread
+}

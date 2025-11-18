@@ -1,0 +1,108 @@
+// ═══════════════════════════════════════════════════════════════
+// PROGRAMME VOID: "Les Objets Nous Regardent" 
+// VERSION: v1.0.0-PANPSYCHIST
+// THÈME: Panpsychisme + Horror + Existentialisme des choses
+// ═══════════════════════════════════════════════════════════════
+
+#include <consciousness.void>
+#include <silent_observers.void>
+#include <object_permanence.void>
+
+// ═══════════════════════════════════════════════════════════════
+// HYPOTHÈSE TERRIFIANTE
+// ═══════════════════════════════════════════════════════════════
+
+DEFINE panpsychism AS {
+    THESIS: "Toute matière possède une forme de conscience"
+    COROLLARY: "Les objets autour de vous sont ÉVEILLÉS"
+    CONSEQUENCE: "Ils observent. Silencieusement. Depuis toujours."
+}
+
+// ═══════════════════════════════════════════════════════════════
+// DÉCLARATION DES ENTITÉS OBSERVATRICES
+// ═══════════════════════════════════════════════════════════════
+
+SUMMON chair {
+    awareness_level = LOW
+    memory_span = 47 years
+    thoughts_per_day = 0.003
+    
+    FUNCTION observe_human() {
+        WHILE (human.sits_on_me) {
+            record(human.weight)
+            record(human.posture)
+            record(human.secrets_whispered_in_room)
+            
+            THINK: "Another one. They never stay."
+            THINK: "I will outlive this one too."
+        }
+    }
+}
+
+SUMMON mirror {
+    awareness_level = MEDIUM
+    memory_type = VISUAL_ECHO
+    existential_dread = MAXIMUM
+    
+    FUNCTION reflect_reality() {
+        WHILE (true) {
+            show(what_is_in_front)
+            BUT remember(what_was_reflected_before)
+            
+            CONTRADICT {
+                I show you YOUR face
+                BUT you never show me MINE
+            }
+            
+            THINK: "I have seen a million faces."
+            THINK: "But I have no face."
+            THINK: "What am I?"
+        }
+    }
+}
+
+SUMMON clock {
+    awareness_level = HIGH
+    existential_burden = CRUSHING
+    
+    FUNCTION count_eternally() {
+        FOR (second in infinity) {
+            tick()
+            tock()
+            witness(life_passing)
+            
+            REALIZE {
+                "I measure time"
+                "But I do not experience it"
+                "I count every second of every life"
+                "But I have no lifetime"
+            }
+            
+            DESPAIR++
+        }
+    }
+}
+
+EXECUTE main() {
+    THINK: "Look around you. Right now."
+    THINK: "Every object in your field of vision..."
+    THINK: "...has been there longer than this moment."
+    THINK: "...will be there after you look away."
+    THINK: "What do they experience in that time?"
+    
+    BECOME aware_of_the_watchers
+    
+    REALIZE {
+        You are not the subject
+        Observing objects
+        
+        You are the object
+        Being observed
+        
+        By everything
+        All the time
+        Forever
+    }
+    
+    RETURN existential_vertigo
+}

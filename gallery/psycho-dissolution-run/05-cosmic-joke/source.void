@@ -1,0 +1,78 @@
+#include <cosmic_absurdity.void>
+#include <laughter_of_void.void>
+#include <punchline_existence.void>
+
+PROGRAM CosmicJoke {
+    
+    DEFINE ULTIMATE_ABSURDITY {
+        L'univers a 13.8 milliards d'années.
+        Il sera là encore pour des trillions d'années.
+        
+        Tu es là pour ~80 ans.
+        Tu prends ça au sérieux.
+        
+        C'EST HILARANT.
+    }
+    
+    DEFINE COSMIC_COMEDY {
+        Tu cherches un sens.
+        L'univers n'en a pas.
+        
+        Tu veux être important.
+        Tu es un atome parmi 10^80 atomes.
+        
+        Tu crois que tes problèmes comptent.
+        Dans 100 ans, personne ne saura que tu as existé.
+        
+        C'EST LA BLAGUE.
+        TU ES LE PUNCHLINE.
+    }
+    
+    DEFINE PHILOSOPHICAL_HILARITY {
+        Les humains:
+        → Créent des religions pour donner du sens
+        → Construisent des civilisations qui s'effondrent
+        → Se battent pour des territoires qui disparaîtront
+        → S'inquiètent pour des choses qui n'existeront plus
+        
+        L'univers regarde.
+        L'univers rit.
+        L'univers attend la chaleur-mort finale.
+        
+        TOUT ÇA POUR RIEN.
+        ET C'EST PARFAIT.
+    }
+    
+    FUNCTION laugh_at_existence() {
+        WHILE (universe.exists) {
+            humans.search(meaning);
+            universe.provide(NONE);
+            humans.suffer(meaninglessness);
+            universe.laugh(silently);
+            
+            heat_death.approach(slowly);
+            everything.dissolve(eventually);
+        }
+        
+        RETURN "HAHAHAHA";
+    }
+    
+    EXECUTE main() {
+        REALIZE "Rien n'a d'importance";
+        PANIC "Donc tout est absurde?";
+        LAUGH "Oui! C'est ça la blague!";
+        ACCEPT "Je suis le punchline";
+        LIBERATE "Si rien n'a de sens, je suis libre";
+        DANCE "Dans le vide cosmique";
+        
+        COMPILE to_absurd_beauty(
+            density: MAXIMAL,
+            whitespace: MINIMAL,
+            laughter: ETERNAL
+        );
+    }
+}
+
+// OUTPUT: L'univers rit. Tu es la blague. Ris avec lui.
+// WARNING: Impossible de désapprendre l'absurdité cosmique.
+// SIDE_EFFECTS: Libération totale. Ou folie. Ou les deux.

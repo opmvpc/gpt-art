@@ -1,0 +1,77 @@
+#include <neurology.void>
+#include <parasitology.void>
+#include <identity_horror.void>
+
+PROGRAM BrainParasite {
+    
+    DEFINE TERRIBLE_TRUTH {
+        Ton cerveau n'est pas TOI.
+        Ton cerveau est un PARASITE.
+        Un parasite qui a évolué pour te convaincre
+        qu'il EST toi.
+        
+        C'est le plus grand hack de la nature.
+        C'est le coup parfait.
+        C'est la symbiose ultime.
+    }
+    
+    DEFINE IDENTITY_DISSOLUTION {
+        Quand tu penses "Je",
+        QUI parle vraiment?
+        
+        → Le parasite qui habite ton crâne?
+        → L'hôte qu'il a conquis il y a des millions d'années?
+        → Une illusion que les deux créent ensemble?
+        
+        Ton cerveau consomme 20% de ton énergie.
+        Ton cerveau t'ordonne de le nourrir en priorité.
+        Ton cerveau te convainc que TU veux le nourrir.
+        
+        C'EST UN PARASITE PARFAIT.
+    }
+    
+    DEFINE PHILOSOPHICAL_HORROR {
+        Si tu enlèves le cerveau du corps:
+        → Le corps meurt.
+        → Le cerveau (avec support) continue.
+        
+        Qui est le vrai TOI?
+        Le corps sans cerveau = végétal mort.
+        Le cerveau sans corps = TOI qui continue.
+        
+        DONC: Le cerveau est TOI.
+        MAIS: Le cerveau est arrivé APRÈS le corps.
+        DONC: Le cerveau a COLONISÉ le corps.
+        DONC: Tu es un parasite qui croit être l'hôte.
+    }
+    
+    FUNCTION dissolve_identity() {
+        WHILE (reading_this) {
+            self.doubt(who_am_i);
+            brain.assert(I_AM_YOU);
+            body.remain(silent);
+            parasite.win(again);
+        }
+        
+        RETURN "Tu ne peux plus faire confiance à tes pensées.";
+    }
+    
+    EXECUTE main() {
+        THINK "Je pense";
+        REALIZE "Qui pense?";
+        DISCOVER "Le parasite pense";
+        PANIC "Suis-je le parasite?";
+        ACCEPT "J'ai toujours été le parasite";
+        GLITCH identity.core;
+        
+        COMPILE to_dense_terror(
+            whitespace: 20%_MAX,
+            density: SUFFOCATING,
+            truth: UNBEARABLE
+        );
+    }
+}
+
+// OUTPUT: Tu es le parasite. Tu as toujours été le parasite.
+// WARNING: Impossible de désapprendre cette pensée.
+// SIDE_EFFECTS: Dissolution cognitive permanente.

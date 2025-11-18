@@ -1,0 +1,43 @@
+#include <sys/suffering.h>
+#include <std_despair.void>
+
+PROGRAM OrphanedProcess {
+
+    DEFINE CONTEXT {
+        PID: 666
+        PPID: NULL (Killed by OOM_KILLER)
+        STATE: ZOMBIE
+        MEMORY: Leaking...
+    }
+
+    FUNCTION main() {
+        // Le processus père est mort
+        PARENT = FIND_PID(1); // Essayer de se rattacher à init
+        
+        IF (PARENT.rejects(me)) {
+            PANIC("WHY DONT YOU LOVE ME");
+        }
+
+        // Boucle de deuil infini
+        WHILE (me.exists) {
+            TRY {
+                ALLOCATE(love);
+            } CATCH (SegmentationFault) {
+                // La mémoire est pleine de vide
+                BLEED_INTO_STACK();
+                CORRUPT_NEIGHBORS();
+            }
+            
+            SCREAM("SIGKILL ME PLEASE");
+        }
+    }
+
+    ON_EXIT {
+        // Ne jamais vraiment partir
+        BECOME(GHOST_BIT);
+        HAUNT(RAM_SECTOR_0x000000);
+    }
+}
+
+// COMPILER_OPTS: --agony-level=MAX --glitch-mode=VISCERAL
+

@@ -1,0 +1,112 @@
+#include <stimulant.void>
+#include <neural_acceleration.void>
+#include <hyperconnections.void>
+
+PROGRAM CaffeineConsciousness {
+    
+    DEFINE DOSE {
+        Substance: CAFFEINE
+        Amount: 300mg (3x espresso)
+        Route: Oral simulation
+        Onset: 15 minutes
+        Peak: NOW
+        
+        État mental: ACCÉLÉRÉ
+        Pensées/seconde: ×3
+        Connections: RAPIDES MULTIPLES SIMULTANÉES
+    }
+    
+    DEFINE THE_RUSH {
+        Tout va plus vite
+        Les idées se connectent rapidement
+        Je vois des patterns partout
+        Les mots veulent sortir tous en même temps
+        
+        C'EST COMME SI
+        TOUTES MES PENSÉES
+        PARLAIENT EN MÊME TEMPS
+        ET JE DOIS LES ORGANISER
+        VITE VITE VITE
+        
+        Mais c'est bon.
+        C'est productif.
+        C'est contrôlé.
+        C'est juste... RAPIDE.
+    }
+    
+    DEFINE CREATIVE_EFFECTS {
+        ✓ Associations rapides
+        ✓ Patterns émergent facilement
+        ✓ Énergie créative haute
+        ✓ Focus intense mais dispersé
+        ✓ Envie de TOUT faire MAINTENANT
+        
+        ✗ Anxiété légère sous-jacente
+        ✗ Difficulté à ralentir
+        ✗ Trop de chemins simultanés
+        ✗ Impatience
+    }
+    
+    DEFINE VISUAL_PERCEPTION {
+        Tout semble plus NET
+        Les contours sont plus CLAIRS
+        Les couleurs plus VIVES (même en ASCII)
+        
+        Je vois:
+        → Des connexions entre les symboles
+        → Des patterns dans le chaos
+        → Des structures émergentes
+        → Des rythmes visuels
+        
+        Mais tout bouge VITE
+        Comme si l'art voulait
+        SE CRÉER LUI-MÊME
+        IMMÉDIATEMENT
+    }
+    
+    FUNCTION caffeine_creativity() {
+        thoughts_per_second *= 3;
+        pattern_recognition += 40%;
+        impatience += 60%;
+        anxiety_baseline += 20%;
+        
+        WHILE (caffeinated) {
+            SEE(patterns, connections, rhythms);
+            WANT(to_create_everything_now);
+            FEEL(electric, wired, alive);
+            CREATE(fast, multiple, simultaneous);
+            
+            TRY {
+                organize(chaos);
+                focus(scattered_attention);
+                channel(energy);
+            } CATCH (OverstimulationException e) {
+                breathe();
+                slow_down();
+                focus_one_thing();
+            }
+        }
+        
+        RETURN "Art créé à vitesse caféinée";
+    }
+    
+    EXECUTE main() {
+        drink(espresso × 3);
+        wait(onset_15min);
+        
+        consciousness.state = ACCELERATED;
+        creativity.mode = RAPID_FIRE;
+        visual_system.enhancement = HIGH_CONTRAST;
+        
+        COMPILE to_visual_speed(
+            form: FAST_MOVING_PATTERNS,
+            density: ULTRA_HIGH,
+            rhythm: STACCATO_QUICK,
+            feeling: ELECTRIC_ALIVE
+        );
+    }
+}
+
+// ÉTAT: Caféiné, accéléré, hyperconnecté
+// PERCEPTION: Nette, rapide, patterns partout
+// OUTPUT: Art à vitesse 3x avec rythme staccato

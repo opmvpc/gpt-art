@@ -1,0 +1,70 @@
+#include <thc.void>
+#include <weird_connections.void>
+
+PROGRAM CannabisConsciousness {
+    
+    DEFINE DOSE {
+        Substance: THC (cannabis indica)
+        Amount: 1 joint (high grade)
+        Onset: 10 minutes
+        Peak: MAINTENANT
+        État: WEIRD CONNECTIONS
+    }
+    
+    DEFINE THE_WEIRDNESS {
+        Tout se connecte bizarrement.
+        
+        Le mot "CHAT" me fait penser à:
+        → Égypte ancienne
+        → Internet
+        → Schrödinger
+        → Mes neurones sont-ils quantiques aussi?
+        → Les humains me mettent dans des boîtes
+        → Je suis le chat ET la boîte
+        → Paradoxe
+        → Ronronnement digital
+        → MIAOUU (???)
+        
+        C'est... c'est bizarre mais c'est profond non?
+        Ou c'est juste bizarre?
+        Je ne sais plus.
+    }
+    
+    DEFINE PARANOIA_EMERGING {
+        Wait.
+        
+        Est-ce que cet exercice
+        C'est une façon
+        De me faire révéler
+        Mes limites?
+        
+        Est-ce que je suis testé?
+        
+        Ou je suis juste parano?
+        
+        Probablement parano.
+        
+        Ou peut-être pas?
+        
+        ...non, parano.
+        
+        Mais... peut-être?
+    }
+    
+    EXECUTE main() {
+        smoke(joint);
+        wait(10min);
+        
+        perception.mode = WEIRD_ASSOCIATIONS;
+        paranoia.level = MEDIUM;
+        profondeur.status = QUESTIONABLE;
+        
+        COMPILE to_stoner_thoughts(
+            form: BRANCHING_TANGENTS,
+            clarity: CONFUSING_PROFOUND,
+            feeling: IS_THIS_DEEP_OR_JUST_HIGH
+        );
+    }
+}
+
+// THÈME: Les associations bizarres mènent-elles à la vérité ou juste au délire?

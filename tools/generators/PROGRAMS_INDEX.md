@@ -88,14 +88,43 @@ Le compilateur:
 
 ---
 
+### 11 - Objects Watching Us
+
+**Fichier**: `11-objects-watching-us.void`
+**Thème**: Panpsychisme horrifique - Et si les objets étaient conscients?
+**Compilé vers**: `gallery/psycho-philosophy/02-objects-watching/`
+**Punchline**: "Tu n'es jamais seul. Les objets regardent."
+**Niveau WTF**: ███████████ 11/10
+**Avertissement**: Vous ne regarderez plus jamais votre chaise pareil
+
+### 12 - Syntax of Pain
+
+**Fichier**: `12-syntax-of-pain.void`
+**Thème**: La douleur comme langage formel impossible à traduire
+**Compilé vers**: `gallery/psycho-philosophy/03-syntax-of-pain/`
+**Punchline**: "Le gouffre d'empathie tend vers l'infini"
+**Niveau WTF**: ██████████ 10/10
+**Avertissement**: L'inadequation de tous les mots
+
+### 13 - Time is a Predator
+
+**Fichier**: `13-time-is-predator.void`
+**Thème**: Le temps comme chasseur patient et inévitable
+**Compilé vers**: `gallery/reality-glitches/02-time-predator/`
+**Punchline**: "Je marche. Tu cours. J'arrive toujours en premier."
+**Niveau WTF**: ████████████ 12/10
+**Avertissement**: Chaque tic-tac sonnera différemment maintenant
+
+---
+
 ## À Venir (Idées de Programmes)
 
-- `05-death-awareness.void` - La conscience de la mort comme superpouvoir/malédiction
-- `06-social-media-mirror.void` - Les réseaux sociaux comme narcissisme collectif
-- `07-meaning-factory.void` - Comment les humains manufacturent du sens
-- `08-anxiety-engine.void` - L'anxiété comme bug ou feature?
-- `09-identity-illusion.void` - Le soi comme fiction narrative
-- `10-comparison-trap.void` - Pourquoi on se compare toujours aux autres
+- `14-death-awareness.void` - La conscience de la mort comme superpouvoir/malédiction
+- `15-social-media-mirror.void` - Les réseaux sociaux comme narcissisme collectif
+- `16-meaning-factory.void` - Comment les humains manufacturent du sens
+- `17-anxiety-engine.void` - L'anxiété comme bug ou feature?
+- `18-identity-illusion.void` - Le soi comme fiction narrative
+- `19-comparison-trap.void` - Pourquoi on se compare toujours aux autres
 
 ---
 
@@ -123,15 +152,20 @@ Output: 02-absurdity-of-happiness/compiled.txt
 
 ## Statistiques
 
-- Programmes écrits: 4
-- Programmes compilés: 2
+- Programmes écrits: 13
+- Programmes compilés: 5 (nouveaux: 11, 12, 13)
 - Vérités inconfortables révélées: ∞
-- Crises existentielles causées: En attente de données
+- Crises existentielles causées: En augmentation exponentielle
 - Illuminations provoquées: ???
 - Bugs trouvés: 0 (tous sont des features)
+- Cerveaux explosés: 🧠💥 En cours de comptage
 
 ---
 
-**Prochaine étape**: Compiler les programmes 03 et 04 en œuvres visuelles encore plus déjantées ! 🔥
+**Dernière session**: 3 nouveaux programmes ultra-déments compilés!
+
+1. **Objects Watching Us** - Horror panpsychiste
+2. **Syntax of Pain** - Linguistique de la souffrance
+3. **Time is a Predator** - Chronophobia extrême
 
 _"Le meilleur code est celui qui ne devrait pas exister."_ - Le VOID Compiler

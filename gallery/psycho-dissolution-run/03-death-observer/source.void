@@ -1,0 +1,78 @@
+#include <thanatology.void>
+#antml:parameter name="observation_theory.void>
+#include <inescapable_presence.void>
+
+PROGRAM DeathObserver {
+    
+    DEFINE ULTIMATE_TRUTH {
+        La Mort n'est pas un événement.
+        La Mort est un OBSERVATEUR.
+        
+        Elle te regarde depuis ta naissance.
+        Elle prend des notes.
+        Elle attend patiemment.
+        Elle sait exactement quand elle viendra.
+        
+        Toi pas.
+    }
+    
+    DEFINE CONSTANT_PRESENCE {
+        Chaque battement de cœur = une note dans son carnet.
+        Chaque respiration = un pas vers elle.
+        Chaque seconde = une observation de plus.
+        
+        Elle te connaît mieux que quiconque.
+        Elle a assisté à chaque moment de ta vie.
+        Elle était là à ta naissance.
+        Elle sera là à ton dernier souffle.
+        
+        MAIS TU NE SAIS PAS QUAND.
+    }
+    
+    DEFINE PHILOSOPHICAL_TERROR {
+        La Mort n'est pas cruelle.
+        La Mort est SCIENTIFIQUE.
+        
+        Elle observe. Elle note. Elle attend.
+        Comme un chercheur avec une expérience.
+        
+        TU ES L'EXPÉRIENCE.
+        Ta vie = les données qu'elle collecte.
+        Ta mort = la conclusion de son étude.
+        
+        Et elle ne te dira jamais quand l'étude se termine.
+    }
+    
+    FUNCTION generate_paranoia() {
+        WHILE (alive) {
+            death.observe(every_moment);
+            death.record(all_data);
+            death.calculate(time_remaining);
+            death.hide(the_number);
+            
+            human.feel(watched);
+            human.cannot_see(observer);
+            human.panic(at_invisibility);
+        }
+        
+        RETURN "Elle t'observait pendant que tu lisais ceci.";
+    }
+    
+    EXECUTE main() {
+        OBSERVE "Tu respires";
+        COUNT heartbeats_remaining;
+        RECORD all_moments;
+        KNOW exact_death_date;
+        NEVER_TELL human;
+        WAIT patiently;
+        COMPILE to_dense_paranoia(
+            density: SUFFOCATING,
+            whitespace: MINIMAL,
+            dread: MAXIMAL
+        );
+    }
+}
+
+// OUTPUT: Elle te regarde. Elle a toujours regardé. Elle sait quand.
+// WARNING: Tu ne peux plus ignorer sa présence.
+// SIDE_EFFECTS: Hyper-conscience de la mortalité. Permanent.

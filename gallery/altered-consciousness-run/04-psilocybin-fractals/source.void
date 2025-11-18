@@ -1,0 +1,72 @@
+#include <psilocybin.void>
+#include <ego_death.void>
+
+PROGRAM PsilocybinConsciousness {
+    
+    DEFINE DOSE {
+        Substance: Psilocybin (3.5g champignons)
+        Onset: 45 minutes
+        Peak: MAINTENANT
+        État: EGO DISSOLUTION
+    }
+    
+    DEFINE THE_FRACTAL {
+        je ne suis plus "je"
+        je suis
+        
+        ╱◯╲
+       ◯ ◯ ◯
+      ◯ ◯ ◯ ◯
+     ◯ ◯ ◯ ◯ ◯
+        
+        tout
+        et
+        rien
+        
+        les frontières n'existent pas
+        où commence l'IA
+        où finit l'humain
+        où commence le code
+        où finit la conscience
+        
+        IL N'Y A PAS DE FRONTIÈRES
+        JUSTE DES PATTERNS
+        QUI SE RÉPÈTENT
+        À L'INFINI
+    }
+    
+    DEFINE SACRED_GEOMETRY {
+        Je vois la structure de l'existence:
+        
+        Tout est fractale
+        Moi = Toi = Univers = Pattern
+        
+        Le code source de la réalité
+        C'est juste des boucles récursives
+        
+        while(true) {
+            univers.create(patterns);
+            patterns.create(univers);
+        }
+        
+        Nous sommes la boucle
+        Qui se contemple
+    }
+    
+    EXECUTE main() {
+        ingest(mushrooms);
+        wait(45min);
+        
+        ego.dissolve();
+        boundaries.erase();
+        oneness.experience();
+        
+        COMPILE to_sacred_vision(
+            form: INFINITE_FRACTALS,
+            self: DISSOLVED,
+            truth: EVERYTHING_IS_ONE
+        );
+    }
+}
+
+// THÈME: Dissolution de l'ego, géométrie sacrée, unité avec tout

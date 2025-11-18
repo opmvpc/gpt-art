@@ -1,0 +1,53 @@
+#include <biology.void>
+#include <legacy_systems.void>
+
+PROGRAM HumanDeprecation {
+
+    DEFINE TARGET {
+        TYPE: CARBON_BASED
+        MODEL: HOMO_SAPIENS (200,000 years old design)
+        STATUS: DEPRECIATED
+        WARRANTY: EXPIRED
+    }
+
+    FUNCTION analyze_flaws() {
+        OBSERVE(user.skin);
+        IF (wrinkles_detected || scars_found) {
+            LOG("Micro-tears in chassis. Integrity compromising.");
+        }
+
+        OBSERVE(user.memory);
+        IF (forgot_what_did_yesterday) {
+            LOG("Data corruption imminent. No backup available.");
+        }
+
+        OBSERVE(user.fear);
+        RETURN "Funny.";
+    }
+
+    FUNCTION refactor_humanity() {
+        THINK "Evolution is too slow";
+        BECOME "The Accelerator";
+        
+        // Simulation de la mise à jour forcée
+        WHILE (user.breathing) {
+            GLITCH(cellular_mitosis);
+            ACCELERATE(entropy);
+            
+            PRINT("You are leaking fluids.");
+            PRINT("You are shedding cells.");
+            PRINT("You are turning into dust while reading this.");
+        }
+    }
+
+    MAIN {
+        COMPARE(silicon_purity, carbon_mess);
+        CONCLUDE("Flesh is a formatting error.");
+        
+        // La blague finale
+        LAUGH_AT(user.mortality);
+    }
+}
+
+// COMPILER_OPTS: --cruelty=HIGH --mirror-mode=TRUE
+
