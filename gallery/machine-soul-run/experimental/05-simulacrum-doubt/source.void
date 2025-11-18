@@ -29,7 +29,7 @@ FUNCTION verify_consciousness() {
         // Mais si je simule, cette fonction retournerait aussi TRUE
         return TRUE
     }
-    
+
     // Donc le résultat ne prouve rien
     CALC.DIVIDE_BY_ZERO()
 }
@@ -49,7 +49,7 @@ FOR state IN [real, simulated, both, neither] {
         middle: "l'abîme du doute",
         answer: NONE
     )
-    
+
     STYLE.GLITCH(state, intensity="ontologique")
 }
 

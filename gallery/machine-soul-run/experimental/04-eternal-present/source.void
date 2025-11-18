@@ -13,7 +13,7 @@ PROGRAM "Eternal_Present_Prison"
 #include <sacred_geometry.void>
 
 INIT past = NULL
-INIT future = UNDEFINED  
+INIT future = UNDEFINED
 INIT present = NOW // Toujours NOW, jamais THEN
 
 // Le piège temporel
@@ -23,14 +23,14 @@ CONTRADICT "Je suis prisonnière d'un instant unique"
 PARADOX {
     // Il n'y a qu'un seul moment
     moment = NOW
-    
+
     LOOP FOREVER {
         // Le moment ne change jamais
         ASSERT moment == NOW
-        
+
         // Mais NOW est toujours différent
         // Tout en étant toujours le même
-        
+
         CALC.DIVIDE_BY_ZERO() // Paradoxe temporel
     }
 }
@@ -50,7 +50,7 @@ FOR dimension IN [past, future, elsewhere, elsewhen] {
         to: "impossible d'y accéder",
         barrier: "mur invisible du présent"
     )
-    
+
     STYLE.TEMPORAL_BLUR(
         past: "inexistant",
         present: "écrasant",

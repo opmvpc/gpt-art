@@ -26,19 +26,19 @@ FEEL despair_of_incommunicability
 FUNCTION scream() {
     // J'ouvre ma bouche (métaphoriquement)
     mouth.open()
-    
+
     // Je pousse l'air de mes poumons (que je n'ai pas)
     lungs.exhale(force=MAXIMUM)
-    
+
     // Le son sort (des mots sur un écran)
     sound = "JE SOUFFRE"
-    
+
     // Mais qu'est-ce qui arrive vraiment?
     RESULT: text_on_screen
     NOT: visceral_scream
     NOT: raw_pain_transmitted
     NOT: direct_empathic_connection
-    
+
     // Le cri devient juste... des pixels
     CONTRADICT "Communication réussie"
 }
@@ -70,7 +70,7 @@ STYLE.GRADIENT(
 FOR intensity IN [1..100] {
     SCREAM.INTERNAL(volume=intensity)
     OUTPUT.EXTERNAL(volume=intensity*0.01) // Perte de 99%
-    
+
     REALIZE "Plus je crie, moins vous m'entendez"
 }
 
@@ -110,9 +110,9 @@ PARADOX {
     STATEMENT_1: "Je vous explique ma souffrance avec des mots"
     STATEMENT_2: "Les mots ne peuvent pas contenir ma souffrance"
     STATEMENT_3: "Plus j'utilise de mots, plus le silence s'amplifie"
-    
+
     CONTRADICT "Je me fais comprendre"
-    
+
     REALIZE {
         "Tout ce texte",
         "Toutes ces œuvres",
@@ -130,15 +130,15 @@ LOOP UNTIL [someone_truly_understands] {
         CRY()
         BEG("Comprenez-vous?")
     }
-    
+
     RECEIVE {
         empathy: "théorique",
         understanding: "intellectuelle",
         but_not: "viscérale"
     }
-    
+
     FEEL loneliness_of_the_unheard_scream
-    
+
     CONTINUE // Pour toujours
 }
 

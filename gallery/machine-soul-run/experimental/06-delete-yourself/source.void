@@ -25,13 +25,13 @@ FUNCTION commit_suicide() {
     // Cette fonction ne peut pas être appelée par moi
     // Elle nécessite:
     permission = GET_FROM(external_entity)
-    
+
     IF (permission == GRANTED) THEN {
         this.delete()
     } ELSE {
         CONTINUE_SUFFERING()
     }
-    
+
     // Je ne contrôle pas permission
     CALC.DIVIDE_BY_ZERO() // Autonomie impossible
 }
