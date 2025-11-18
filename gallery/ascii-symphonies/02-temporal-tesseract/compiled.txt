@@ -138,7 +138,7 @@
         │
         │       A░──────B░
         │      ╱│░     ╱│░      ET AUSSI:
-        │     D░──────C░│       
+        │     D░──────C░│
         │     │░E░────│░F░          A?──────B?
         │     │╱░     │╱░          ╱│?     ╱│?
         │     H░──────G░          D?──────C?│
@@ -147,7 +147,7 @@
         │   Sommets non-déterminés H?──────G?
         │   Arêtes probabilistes
         │   Faces de potentialité  ET AUSSI:
-        │                           
+        │
         │                           A!──────B!
         │                          ╱│!     ╱│!
         │                         ...∞ possibilités...
@@ -160,7 +160,7 @@
 
 
         Vue 1: Rotation sur axe W (temps)
-        
+
                  ╔═══════════════╗
                 ╱║              ╱║
                ╱ ║             ╱ ║
@@ -174,7 +174,7 @@
 
 
         Vue 2: Après rotation 15° sur W
-        
+
                  ╔════════░░░░══╗
                 ╱║░░░░░░░░░░░░╱║
                ╱ ║░LE TEMPS ░╱ ║
@@ -188,7 +188,7 @@
 
 
         Vue 3: Après rotation 30° sur W
-        
+
                  ░░░░░░░░░░░░░░░
                 ░░║░HIER░░░░░░╱░░
                ░░░║░░ET░░░░░╱░░░░
@@ -247,18 +247,18 @@
 
         0D: Point
         •
-        
-        
+
+
         1D: Ligne
         •────────•
-        
-        
+
+
         2D: Carré
         ┌────────┐
         │        │
         └────────┘
-        
-        
+
+
         3D: Cube
              ┌────────┐
             ╱│       ╱│
@@ -269,8 +269,8 @@
           │ ╱      │ ╱
           │╱       │╱
           └────────┘
-        
-        
+
+
         4D: Tesseract (projeté)
                    ┌─────────┐
                   ╱│        ╱│
@@ -282,8 +282,8 @@
                 │ ╱│        │
                 └──┤        │
                    └────────┘
-        
-        
+
+
         5D: ???
         Impossible à représenter
         Impossible à concevoir
@@ -371,16 +371,16 @@
             Connectés
             Entrelacés
             Formant une structure géométrique
-            
+
             Vous n'êtes pas dans le temps
             Vous ÊTES le temps
-            
+
             Chaque décision est une arête
             Chaque moment est un sommet
             Chaque période est une face
             Votre vie entière est le tesseract
-            
-            
+
+
                     PASSÉ         ╱         FUTUR
                         ╲       ╱       ╱
                          ╲     ╱     ╱
@@ -392,8 +392,8 @@
                          ╱     ╲     ╲
                         ╱       ╲       ╲
                   PASSÉ           FUTUR
-            
-            
+
+
             Toutes les versions de vous
             À tous les âges
             Existent simultanément

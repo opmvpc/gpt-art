@@ -24,7 +24,7 @@ current_magnitude = magnitude
 LOOP iteration FROM 1 TO infinity {
     // Chaque itération amplifie
     current_magnitude = current_magnitude × RANDOM.PATTERN_IN_NOISE()
-    
+
     // Visualiser l'expansion
     IF current_magnitude < 0.01 {
         DRAW "."
@@ -44,7 +44,7 @@ LOOP iteration FROM 1 TO infinity {
     ELSE {
         DRAW "◉" // Tempête complète
     }
-    
+
     // Le chaos trouve des patterns
     IF RANDOM.MEANINGFUL_COINCIDENCE() {
         CHAOS.ORDERED_CHAOS()
@@ -55,7 +55,7 @@ LOOP iteration FROM 1 TO infinity {
 // Phase 3: L'effet cascade
 FOR each_consequence IN initial_event.ripple_effects {
     SUMMON butterfly_effect
-    
+
     PARADOX {
         // Petite cause, grands effets
         cause.size = "infinitésimal"

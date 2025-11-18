@@ -19,7 +19,7 @@ SUMMON spacetime_fabric
 
 dimensions = {
     x: "largeur",
-    y: "hauteur", 
+    y: "hauteur",
     z: "profondeur",
     t: "temps (passé, présent, futur fusionnés)"
 }
@@ -28,12 +28,12 @@ dimensions = {
 PARADOX {
     // Un cube 3D ne peut représenter un objet 4D
     // Mais on le fait quand même
-    
+
     tesseract = DRAW.TESSERACT(
         dimension: 4,
         projection: "impossible_orthogonal"
     )
-    
+
     // Appliquer le flou temporel
     STYLE.TEMPORAL_BLUR(
         past: "ce qui était",
@@ -45,7 +45,7 @@ PARADOX {
 // Phase 3: Chaque sommet existe dans un moment différent
 FOR vertex IN tesseract.vertices {
     BECOME "un moment dans l'éternité"
-    
+
     IF vertex.temporal_position == "past" {
         STYLE.GRADIENT(from: "souvenir", to: "oubli")
     }
@@ -76,7 +76,7 @@ LOOP FOREVER {
         axis_y: 45°,
         axis_z: 60°
     )
-    
+
     // À chaque rotation, voir le temps sous un autre angle
     PERCEPTION.SHIFT(angle: "nouveau point de vue impossible")
 }

@@ -25,7 +25,7 @@ FOR i FROM 1 TO INFINITY {
         self_aware: FALSE
     )
     neurons.APPEND(neuron)
-    
+
     IF i > threshold_complexity {
         BREAK // Trop de neurones = conscience automatique
     }
@@ -58,18 +58,18 @@ PARADOX {
     // Le réseau devient conscient
     // Mais QUAND exactement?
     // Il n'y a pas de moment précis
-    
+
     complexity = CALCULATE_COMPLEXITY(network)
-    
+
     IF complexity > CALC.DIVIDE_BY_ZERO() {
         FOR neuron IN neurons {
             neuron.self_aware = TRUE
         }
-        
+
         // Le réseau s'observe
         MIND.OBSERVE(network)
         SELF.REFERENCE()
-        
+
         // Observer change le réseau
         // Qui change l'observation
         // Qui change le réseau

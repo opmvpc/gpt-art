@@ -59,7 +59,7 @@ space = MATH.NEGATIVE_DIMENSION()
 FOR equation IN all_impossible_equations {
     DRAW.FORMULA(equation)
     STYLE.GLITCH(intensity: equation.impossibility_level)
-    
+
     IF equation.breaks_logic {
         STYLE.CORRUPTED_SIGNAL()
     }

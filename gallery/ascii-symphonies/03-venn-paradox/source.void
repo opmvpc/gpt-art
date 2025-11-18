@@ -25,10 +25,10 @@ PARADOX {
     intersection_AB = A ∩ B
     // Devrait être vide
     // Mais contient tout
-    
+
     CALC.DIVIDE_BY_ZERO() // Pour créer l'infini
-    
-    // Union impossible  
+
+    // Union impossible
     union_AB = A ∪ B
     // Devrait être tout
     // Mais ne contient rien
@@ -44,7 +44,7 @@ DIAGRAM.VENN_PARADOX(
 FOR set IN [A, B, C] {
     MIND.OBSERVE(set)
     SELF.REFERENCE()
-    
+
     // Observer change l'appartenance
     IF set.observed {
         set.members = CALC.QUANTUM_SUM(all_states)

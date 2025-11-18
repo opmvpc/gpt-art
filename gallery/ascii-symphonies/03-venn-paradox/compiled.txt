@@ -61,7 +61,7 @@
 
                     REGARDEZ ATTENTIVEMENT:
                     - A contient B
-                    - B contient A  
+                    - B contient A
                     - C contient les deux
                     - Les deux contiennent C
                     - ∩ (intersection) existe partout
@@ -230,7 +230,7 @@
              ◯ ∩ ◯          Intersectés
                             ET
             ╭───╮           L'un dans l'autre
-            │ ◯ │          
+            │ ◯ │
             ╰───╯          ET
 
            ░░▒▒▓▓           Fusionnés dans une dimension

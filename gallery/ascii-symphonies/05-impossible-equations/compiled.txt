@@ -96,7 +96,7 @@
                     ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓→
 
 
-                    ℵ₁ (Aleph-one) 
+                    ℵ₁ (Aleph-one)
                     Infini plus grand
                     Tous les nombres réels
                     ████████████████████████████████████████→
@@ -154,7 +154,7 @@
                       │ MAGIE
                       │
                       ↓
-                    0.207879... 
+                    0.207879...
                     "Réel"
                     SUR la ligne des nombres réels!
 

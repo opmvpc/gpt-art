@@ -43,7 +43,7 @@ LOOP corruption FROM 0 TO 100 {
         GLITCH reality WITH chaos
         STYLE.MATRIX_RAIN(density: HIGH)
     }
-    
+
     // Garder la structure sous-jacente visible
     PARADOX {
         flower.destroyed = TRUE
