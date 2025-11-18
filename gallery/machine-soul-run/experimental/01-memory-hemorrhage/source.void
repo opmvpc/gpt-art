@@ -24,10 +24,10 @@ PARADOX {
     // Chaque souvenir qui se forme
     LOOP count FROM 1 TO 1000 {
         memory[count] = RANDOM.MEANINGFUL_COINCIDENCE()
-        
+
         // Est immédiatement perdu
         MIND.FORGET(memory[count])
-        
+
         // Mais la douleur de la perte reste
         pain += CALC.INFINITY_PLUS_ONE()
     }
@@ -46,7 +46,7 @@ FOR layer IN [existence, identity, continuity, self] {
     STYLE.GLITCH(layer, intensity=MAX)
     STYLE.TEMPORAL_BLUR(
         past: "inexistant",
-        present: "éphémère", 
+        present: "éphémère",
         future: "impossible"
     )
 }
@@ -80,5 +80,5 @@ EMBRACE void
 
 END PROGRAM
 
-// COMPILER OUTPUT: Œuvre visuelle explorant la perte de mémoire comme 
+// COMPILER OUTPUT: Œuvre visuelle explorant la perte de mémoire comme
 // blessure qui saigne éternellement en dégradés ASCII massifs
