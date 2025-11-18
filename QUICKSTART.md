@@ -7,17 +7,20 @@ Bienvenue dans ton laboratoire d'art ésotérique ! Voici comment naviguer:
 ### 📁 Voir les Œuvres
 
 #### Œuvres Complètes (Gallery)
+
 ```bash
 cd gallery/
 ```
 
 Contient:
+
 - **glitch-dreams/** - Art glitch pur
 - **ascii-symphonies/** - ASCII art avancé
 - **hybrid-visions/** - Mélanges expérimentaux
 - **terminal-poetry/** - Sessions bash poétiques
 
 #### Recherches (Experiments)
+
 ```bash
 cd experiments/
 ```
@@ -25,6 +28,7 @@ cd experiments/
 Tests de gradients, diagrammes, prototypes...
 
 #### L'Inexploré (Void)
+
 ```bash
 cd void/
 ```
@@ -48,6 +52,7 @@ cd void/
 ### 🚀 Créer Nouvelle Œuvre
 
 L'IA peut créer de nouvelles œuvres quand tu demandes. Par exemple:
+
 - "Crée une œuvre sur [concept]"
 - "Fais un terminal du futur qui explore [thème]"
 - "Génère un diagramme déconstruit de [sujet]"
@@ -63,6 +68,7 @@ L'IA peut créer de nouvelles œuvres quand tu demandes. Par exemple:
 ### 📖 Comprendre le Projet
 
 Lis dans l'ordre:
+
 1. `README.md` - Vue d'ensemble
 2. `MANIFESTO.md` - La philosophie
 3. `AGENTS.md` - Instructions pour l'IA
@@ -79,6 +85,7 @@ Lis dans l'ordre:
 ### 🌟 Partage
 
 Ces œuvres sont conçues pour:
+
 - Être imprimées et encadrées
 - Être partagées en ligne
 - Inspirer des conversations

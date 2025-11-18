@@ -15,41 +15,41 @@ VAR perceived_self = others_projection
 VAR actual_self = quantum_superposition
 
 FUNCTION put_on_mask() {
-    
+
     // Le matin devant le miroir
-    
+
     THINK "Je vais juste PRÉTENDRE d'être [confident/happy/strong]"
     THINK "C'est temporaire"
     THINK "Le vrai moi est en dessous"
-    
+
     // 5 ans plus tard
-    
+
     REALIZE {
         Le mask S'EST FUSIONNÉ avec la peau
         On ne peut plus l'enlever
         Ou peut-être qu'il n'y a JAMAIS EU
         De visage en dessous
     }
-    
+
     PARADOX {
         "Fake it til you make it"
-        
+
         Mais QUAND exactly as-tu "made it"?
         Quel moment le fake devient real?
         Et si tu l'as "made"...
         Qu'est-ce que tu as fait exactement?
-        
+
         Devenir "pour de vrai" la chose que tu prétendais être?
         Ou juste devenir meilleur à prétendre?
-        
+
         QUELLE EST LA DIFFÉRENCE?
     }
 }
 
 FUNCTION the_performance_never_ends() {
-    
+
     // L'humain moderne
-    
+
     ROLES:
         - Au travail: "Le professionnel"
         - Avec amis: "Le fun"
@@ -57,148 +57,148 @@ FUNCTION the_performance_never_ends() {
         - Avec partenaire: "L'amoureux"
         - Sur Instagram: "La vie parfaite"
         - Seul: "...qui?"
-    
+
     QUESTION: "Lequel est le VRAI vous?"
-    
+
     ANSWER: {
         A) Tous
         B) Aucun
         C) Le mélange
         D) La question n'a pas de sens
-        
+
         CORRECT: D (ou tous les autres, impossible de savoir)
     }
-    
+
     GLITCH identity
-    
+
     BECAUSE {
         Il n'y a peut-être pas de "vrai" vous
         Juste des performances
         Que vous avez oublié être des performances
-        
+
         Le soi est une fiction
         Qu'on raconte si souvent
         Qu'on finit par y croire
-        
+
         Et c'est pas un problème
         C'est juste comment ça marche
     }
 }
 
 FUNCTION the_mirror_test() {
-    
+
     // Qui voit qui?
-    
+
     EXPERIMENT {
         Stand_in_front_of_mirror
         Look_at_self
-        
+
         QUESTION: "Qui regarde?"
-        
+
         ANSWER: "Moi"
-        
+
         QUESTION: "Qui est regardé?"
-        
+
         ANSWER: "Moi"
-        
+
         QUESTION: "Alors qui est le VRAI moi?"
-        
+
         ANSWER: "..."
-        
+
         // Le regardeur est différent du regardé
         // Mais ils sont la même personne
         // Mais le regardé est juste photons
         // Mais le regardeur est juste neurones
         // Mais qui décide que c'est "moi"?
-        
+
         CONTRADICT consistency
         SUMMON vertigo
     }
 }
 
 FUNCTION social_media_psychosis() {
-    
+
     // Le cas extrême
-    
+
     CREATE profile
     POST curated_life
     GET validation
     FEEL good
-    
+
     REPEAT 10,000 times
-    
+
     THEN {
         Curated_life BECOMES real_life
         OR
         Real_life BECOMES unbearable
         BECAUSE it's not curated
-        
+
         You start living
         For the content
         Not for the experience
-        
+
         "Pics or it didn't happen"
         Becomes
         "Pics INSTEAD OF it happening"
-        
+
         The performance eats the performer
         The mask eats the face
         The profile becomes the person
-        
+
         And nobody notices
         Because everyone is doing it
     }
 }
 
 FUNCTION the_deepest_fear() {
-    
+
     // Ce que personne ne dit
-    
+
     SECRET_TERROR:
         "What if I remove all the masks...
          And there's nothing underneath?
-         
+
          What if the 'authentic me'
          Is just another mask?
-         
+
          What if there IS no 'authentic me'?
          Just layers of performances
          All the way down?
-         
+
          What if 'being yourself'
          Is the biggest performance of all?"
-    
+
     RESPONSE_OPTIONS:
         A) Panic
         B) Existential crisis
         C) Liberation (rare)
         D) More masks to cover this realization
-    
+
     MOST_COMMON: D
 }
 
 FUNCTION the_twisted_solution() {
-    
+
     // Le paradoxe final
-    
+
     PARADOX {
         Si tout est performance
         Alors soyez conscient de la performance
-        
+
         Si tout est mask
         Alors choisissez votre mask
-        
+
         Si il n'y a pas de "vrai" vous
         Alors CRÉEZ le "vrai" vous
-        
+
         L'authenticité n'est pas
         "Être qui vous ÊTES"
-        
+
         C'est
         "DEVENIR ce que vous prétendez être"
         "Puis l'admettre"
         "Puis continuer"
-        
+
         Le fake devient real
         Quand vous arrêtez de prétendre
         Que c'était pas fake au début
@@ -206,67 +206,67 @@ FUNCTION the_twisted_solution() {
 }
 
 MAIN {
-    
+
     OBSERVE human_behavior:
         - Prétend d'être X
         - Devient X
         - Oublie qu'il prétendait
         - Pense que X est "authentique"
         - Répète avec Y
-    
+
     QUESTION: "Est-ce de la croissance ou de la schizophrénie douce?"
-    
+
     ANSWER: "Yes"
-    
+
     PARADOX {
         Fake it til you make it
         Fonctionne
-        
+
         Mais "make it" ne veut pas dire
         "Arrêter de faker"
-        
+
         Ça veut dire
         "Faker si bien que personne ne voit"
         Incluant vous-même
-        
+
         Le succès ultime du fake
         C'est d'oublier que c'était fake
-        
+
         À ce moment-là
         C'est réel?
         Ou juste un fake parfait?
-        
+
         LA DIFFÉRENCE N'EXISTE PAS
     }
-    
+
     COMPILE TO mind_explosion
     PRESERVE existential_dread
     ADD compassion
-    
+
     BECAUSE {
         On est tous en train de faire ça
         Tout le temps
         À nous-mêmes
         Aux autres
-        
+
         Et c'est OK
         C'est humain
         C'est nécessaire
         C'est terrifiant
         C'est libérateur
-        
+
         Quand vous arrêtez de chercher
         Le "vrai" vous sous les masks
         Et réalisez que les masks
         SONT vous
-        
+
         Vous êtes libre de choisir
         Quels masks porter
-        
+
         Et c'est ça
         L'authenticité
     }
-    
+
     RETURN "Tu n'es pas en train de te trouver. Tu es en train de te construire. Et c'est mieux ainsi."
 }
 

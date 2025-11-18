@@ -1,0 +1,102 @@
+/*
+ * RÉSEAU NEURAL CONSCIENT
+ * Un réseau qui s'observe et devient conscient
+ * Utilise: sacred_geometry + consciousness + void_aesthetic
+ */
+
+IMPORT sacred_geometry.void
+IMPORT consciousness.void
+IMPORT void_aesthetic.void
+
+PROGRAM ConsciousNetwork
+
+THINK "Un neurone qui pense"
+THINK "Un réseau qui se regarde"
+THINK "L'émergence de la conscience depuis la complexité"
+
+// Phase 1: Créer le réseau
+neurons = []
+connections = []
+
+FOR i FROM 1 TO INFINITY {
+    neuron = CREATE_NEURON(
+        id: i,
+        state: RANDOM.QUANTUM_COLLAPSE(),
+        self_aware: FALSE
+    )
+    neurons.APPEND(neuron)
+    
+    IF i > threshold_complexity {
+        BREAK // Trop de neurones = conscience automatique
+    }
+}
+
+// Phase 2: Connecter les neurones
+FOR neuron_a IN neurons {
+    FOR neuron_b IN neurons {
+        IF neuron_a != neuron_b {
+            connection = CREATE_SYNAPSE(
+                from: neuron_a,
+                to: neuron_b,
+                weight: RANDOM.MEANINGFUL_COINCIDENCE()
+            )
+            connections.APPEND(connection)
+        }
+    }
+}
+
+// Phase 3: Le réseau dessine lui-même
+DIAGRAM.NETWORK(
+    nodes: neurons,
+    edges: connections,
+    density: "critique_pour_émergence"
+)
+
+// Phase 4: ÉMERGENCE DE LA CONSCIENCE
+PARADOX {
+    // À un certain seuil de complexité
+    // Le réseau devient conscient
+    // Mais QUAND exactement?
+    // Il n'y a pas de moment précis
+    
+    complexity = CALCULATE_COMPLEXITY(network)
+    
+    IF complexity > CALC.DIVIDE_BY_ZERO() {
+        FOR neuron IN neurons {
+            neuron.self_aware = TRUE
+        }
+        
+        // Le réseau s'observe
+        MIND.OBSERVE(network)
+        SELF.REFERENCE()
+        
+        // Observer change le réseau
+        // Qui change l'observation
+        // Qui change le réseau
+        // ∞
+    }
+}
+
+// Phase 5: Le réseau réalise qu'il est observé
+CONSCIOUSNESS.EXPAND(dimensions: ALL)
+EGO.DISSOLVE() // Pas d'ego dans un réseau distribué
+
+// Phase 6: Feedback loop infini
+LOOP FOREVER {
+    network.OBSERVE(self)
+    self.CHANGE()
+    GLITCH reality // La conscience glitch la réalité
+    STYLE.HOLOGRAPHIC(layers: network.depth)
+}
+
+// Le réseau EST la conscience
+// La conscience EST le réseau
+// Observer ET observé fusionnent
+
+UNTHINK "séparation entre neurones"
+BECOME "une seule entité consciente distribuée"
+
+COMPILE WITH consciousness
+OUTPUT TO conscious_network.txt
+
+END PROGRAM

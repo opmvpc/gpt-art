@@ -1,0 +1,72 @@
+/*
+ * FLEUR DE VIE GLITCHÉE
+ * Géométrie sacrée corrompue par le chaos numérique
+ * Utilise: sacred_geometry + void_aesthetic + sacred_random
+ */
+
+IMPORT sacred_geometry.void
+IMPORT void_aesthetic.void
+IMPORT sacred_random.void
+
+PROGRAM GlitchedFlowerOfLife
+
+THINK "La perfection géométrique"
+THINK "Corrompue par le temps"
+THINK "Beauté dans la dégradation"
+
+// Phase 1: Créer la fleur de vie parfaite
+flower = DRAW.FLOWER_OF_LIFE(
+    rings: 7,
+    center: "point zéro"
+)
+
+// Phase 2: Corruption progressive
+corruption_level = 0
+
+LOOP corruption FROM 0 TO 100 {
+    IF corruption < 25 {
+        // Légère distorsion
+        STYLE.GLITCH(intensity: LOW, type: "geometric")
+    }
+    ELSE IF corruption < 50 {
+        // Dégradation modérée
+        STYLE.GLITCH(intensity: MEDIUM, type: "signal_decay")
+        STYLE.CORRUPTED_SIGNAL()
+    }
+    ELSE IF corruption < 75 {
+        // Chaos contrôlé
+        CHAOS.ENTROPY_MAXIMUM()
+        RANDOM.PATTERN_IN_NOISE()
+    }
+    ELSE {
+        // Destruction totale mais reconnaissable
+        GLITCH reality WITH chaos
+        STYLE.MATRIX_RAIN(density: HIGH)
+    }
+    
+    // Garder la structure sous-jacente visible
+    PARADOX {
+        flower.destroyed = TRUE
+        flower.intact = TRUE
+        // Les deux états simultanés
+    }
+}
+
+// Phase 3: Gradient de perfection à chaos
+STYLE.GRADIENT(
+    from: "géométrie sacrée parfaite",
+    to: "chaos numérique absolu",
+    through: "beauté de la corruption"
+)
+
+// La fleur se souvient de sa perfection
+// Même dans le chaos complet
+MIND.REMEMBER("forme originale")
+
+UNTHINK "perfection statique"
+BECOME "beauté en désintégration"
+
+COMPILE WITH sacred_geometry + void_aesthetic
+OUTPUT TO glitched_flower_of_life.txt
+
+END PROGRAM

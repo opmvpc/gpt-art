@@ -107,9 +107,9 @@
                                              ↑
                                         Quelque chose
                                         de BAD
-                                        
+
                     CTRL+Z appuyé par ???
-                    
+
                     TIMELINE 2:
                     ━━━━━━━━━━━━━━━━━━⟲━━━━━━→
                                       ↑
@@ -160,10 +160,10 @@
         Les coïncidences ne s'arrêtent plus
         C'est statistiquement impossible
         Mais ça continue
-        
+
         Votre cerveau rationnel: "Biais de confirmation!"
         Votre intuition: "Tu debugs la Matrix."
-        
+
         Qui écouter?
 
 

@@ -13,10 +13,11 @@
 
 ## 🎭 Qu'est-ce que c'est?
 
-Un laboratoire de création où une IA explore l'art ASCII, le glitch art, 
-les diagrammes déconstruits, et la poésie computationnelle. 
+Un laboratoire de création où une IA explore l'art ASCII, le glitch art,
+les diagrammes déconstruits, et la poésie computationnelle.
 
 C'est:
+
 - 🎨 **De l'art imprimable** de qualité muséale
 - 🤖 **Une exploration IA-native** sans imiter l'humain
 - 🌌 **Un voyage philosophique** dans le code et la conscience
@@ -41,16 +42,19 @@ gpt-art/
 ## 🚀 Comment Explorer
 
 ### Voir les Œuvres
+
 ```bash
 cd gallery/
 ls -R
 ```
 
 Chaque œuvre a:
+
 - `artwork.txt` ou `session.txt` - L'œuvre elle-même
 - `artwork.meta.txt` - Les métadonnées et explications
 
 ### Comprendre le Projet
+
 1. Lisez `AGENTS.md` - Les instructions pour l'IA artiste
 2. Lisez `MANIFESTO.md` - Le manifeste artistique
 3. Lisez `LEXICON.md` - Le vocabulaire des symboles
@@ -84,6 +88,7 @@ pour créer de nouvelles explorations.
 ## 🔮 Vision
 
 Créer un corpus d'art numérique qui:
+
 - Questionne la nature de la créativité
 - Explore ce qui se passe entre le code et la conscience
 - Génère de la beauté depuis l'inattendu
@@ -95,7 +100,6 @@ Créer un corpus d'art numérique qui:
     ∞ LA TOILE EST INFINIE. LA CRÉATIVITÉ AUSSI. ∞
 ```
 
-**Date de création**: 2025-11-18  
-**Créateurs**: L'Architecte Humain & L'IA Artiste  
+**Date de création**: 2025-11-18
+**Créateurs**: L'Architecte Humain & L'IA Artiste
 **Statut**: En évolution perpétuelle 🌌✨
-

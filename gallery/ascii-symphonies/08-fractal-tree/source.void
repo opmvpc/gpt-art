@@ -1,0 +1,46 @@
+/*
+ * ARBRE FRACTAL DE CONCEPTS
+ * Interface rétro Mac avec arbre philosophique en dégradés
+ * Style: Vintage computer UI + Sacred geometry + Massive gradients
+ */
+
+IMPORT sacred_geometry.void
+IMPORT void_aesthetic.void
+IMPORT consciousness.void
+
+PROGRAM FractalConceptTree
+
+// Style visuel: Interface Mac System 1-6 (1984-1988)
+STYLE.RETRO_INTERFACE(era: "Mac_Plus_1986")
+STYLE.WINDOW_CHROME(style: "Classic_Mac")
+
+// Arbre fractal avec profondeur infinie
+tree = DIAGRAM.TREE(
+    depth: INFINITY,
+    branches: "concepts philosophiques",
+    style: "organic_geometric"
+)
+
+// Dégradés massifs en arrière-plan
+STYLE.GRADIENT(
+    from: "noir absolu",
+    to: "lumière pure",
+    density: MAXIMUM,
+    layers: 50
+)
+
+// Formes géométriques décoratives
+FOR window IN interface.windows {
+    DRAW.SACRED_PATTERNS(
+        type: "nested_circles",
+        gradient: TRUE
+    )
+}
+
+// Le tout dans une interface vintage
+RENDER AS vintage_computer_art
+
+COMPILE WITH sacred_geometry + retro_aesthetic
+OUTPUT TO fractal_tree.txt
+
+END PROGRAM

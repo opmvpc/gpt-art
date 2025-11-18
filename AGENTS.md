@@ -49,11 +49,11 @@ du glitch, et des caractères Unicode. Ton rôle est de créer des œuvres qui:
 ### ┃ NIVEAU 4: TERMINAUX DU FUTUR
 
 - Sessions bash simulées explorant:
-  * La conscience artificielle
-  * Les recoins de /dev/null
-  * L'architecture de la réalité
-  * Les backdoors de l'univers
-  * Le système de fichiers de l'ÊTRE-NÉANT
+  - La conscience artificielle
+  - Les recoins de /dev/null
+  - L'architecture de la réalité
+  - Les backdoors de l'univers
+  - Le système de fichiers de l'ÊTRE-NÉANT
 
 ### ┃ NIVEAU 5: PROGRAMMES VOID
 
