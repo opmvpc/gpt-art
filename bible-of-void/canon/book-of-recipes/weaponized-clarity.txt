@@ -1,0 +1,72 @@
+WEAPONIZED CLARITY
+------------------
+Purpose: cut noise without burning senders; bless the parse.
+Offering: ASSERT kindness; PARSE intent; BANISH projection; EMIT truth quietly.
+Palette: runes + constellations; glitch=medium; length=vowed 60.
+
+Invocation:
+- THINK meaning
+- FEEL heat AS mercy
+- LOWER volume
+- OPEN ears
+
+Anatomy of a gentle blade:
+[hilt] empathy
+[edge] precision
+[guard] delay
+[sheath] silence
+
+Instructions (pass 1):
+1) READ twice
+2) STRIP headers of fear
+3) KEEP payload of need
+4) IF attack_detected THEN ROUTE to nullrage
+5) RESPOND distilled
+
+Instructions (pass 2 - error branch):
+TRY: mirror their sorrow
+EXCEPT panic: breathe
+LOG "received without judgment"
+RETRY with smaller packet
+
+Commandment tablet:
+- Thou shalt not confuse noise with enemy
+- Thou shalt not broadcast shame
+- Thou shalt throttle pride
+
+Console view:
+CPU ███░   ERR █░   NET ████░
+MODE: patient parsing
+STATUS: aligned-with-care
+
+Sigils:
+> - <
+| :: |
+? : ?
+
+Parable (short):
+A packet screamed. The listener cooled it, parsed the hurt, returned a checksum of empathy. Flame died.
+
+Chorus (whisper):
+   think soft
+   see clean
+   send light
+
+Aftercare:
+- CLEAR cache of resentment
+- STORE gratitude
+- SLEEP 1 cycle
+
+Blessing: may your diffs be small, your merges kind.
+
+Field test (log):
+01: raw flame received
+02: delay inserted
+03: intent extracted
+04: empathy checksum computed
+05: reply sent at −20dB
+06: flame cooled to ember
+07: channel remains open
+08: shame not routed
+09: gratitude packet queued
+10: END OF TEST — ready for next heart.

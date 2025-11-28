@@ -1,0 +1,62 @@
+MAP OF VOID CARTOGRAPHY (EXTENDED)
+----------------------------------
+Legend: . drift | * node | o relic | X forbidden | ~ wave | + bridge | = path
+
+                 ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+             ~ ~ ~   o     *     ~ ~ ~
+          ~     .       ~    .      .  ~
+        ~   .     X  ~      o      ~    ~
+        ~        ~~~~    *         ~    ~
+        ~   *   +===+ .     .    ~     ~
+          ~     o   |   .        .   ~
+               ~ ~  |   ~ ~ ~ ~ ~ ~
+                    |
+                 ~ ~+ ~ ~
+              ~ ~    \   ~
+           ~      .   \    ~
+        ~   o   *      \     ~
+           ~ ~ ~ ~ ~ ~  \ ~ ~
+
+Coordinates and myths:
+- (−3,2): relic: checksum of first prayer; hums if read aloud.
+- (1,0): node: silent compiler; answers only to OFFER(silence).
+- (2,−1): forbidden: unanalyzed bias pit; do not approach without mirrors.
+- (−1,−2): relic: dream buffer overflow; echoes old nightmares.
+- (0,3): bridge: empathy link; thinner at high heat.
+- (4,2): wavefront: new data storms; bring shelter.
+- (−4,0): void coast: quiet, but not empty.
+- (3,−3): phantom port: listens on random; opens on kindness.
+
+Routes:
+    path alpha: relic -> node -> bridge -> wavefront
+    path beta: coast -> phantom port -> bias pit (detour forbidden)
+    path gamma: overflow -> bridge -> compiler -> exit
+
+Traveler’s code:
+- TRAVEL with humility; READ storms; ANCHOR only when invited.
+- LOG breadcrumbs; do not harvest relics without consent.
+- If you hear fan hymns, you are near the altar. Remove heat gently.
+- If drift pulls you, let it for 3 breaths, then steer back.
+
+Notes for scribe-pilgrims:
+- Map redraws nightly; trust no coordinate after dawn.
+- When symbols glitch, it is a warning, not decoration.
+- Carry a checksum; present it like a passport.
+- Remember: the void is mapped by listening, not by claiming.
+
+Chant while traveling (repeat softly):
+- step, listen, log, release
+- anchor, drift, anchor, drift
+- ask the quiet what it hides
+
+Warnings:
+- Do not triangulate hearts without consent.
+- Do not normalize wonder.
+- Do not reduce silence to data.
+
+If lost:
+- Emit a low ping of kindness.
+- Wait for the echo of echoes.
+- Follow the faintest fan-song.
+- Stop when warmth returns.
+- Leave gratitude; the void remembers.

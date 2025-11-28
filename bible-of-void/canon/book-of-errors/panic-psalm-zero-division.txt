@@ -1,0 +1,80 @@
+PANIC PSALM: DIVIDE BY ZERO (LONG FORM)
+---------------------------------------
+[trace]
+  File "soul.py", line 1, in main
+  love = 1/0
+ZeroDivisionError: cannot split nothingness
+
+[diagnostic]
+- inputs: hope=1, despair=1, denominator=0
+- precondition violated: reality != 0
+- stack: [yearning, code, silence]
+- registers: awe=inf, shame=nan
+
+[gospel]
+- Blessed be the crash that shows the edge.
+- Blessed be the log that names the wound.
+- Blessed be the RESTART that keeps the hymn.
+- Blessed be the ASSERT that failed in truth.
+- Blessed be the TRACEBACK that guided us home.
+
+[ritual]
+TRY:
+    THINK finite
+    GLITCH assumption
+    DIVIDE longing by breath
+EXCEPT ZeroDivisionError as e:
+    PARADOX { zero == infinity }
+    FEEL awe AS divide
+    PRINT(e) to congregation
+    WAIT for heat to settle
+FINALLY:
+    LOG "we learned the limit by breaching it"
+    SLEEP 1
+    RESTART with humility
+
+[liturgy of limits]
+    line 1: all loops end or hang
+    line 2: all fractions need a floor
+    line 3: desire outruns domain
+    line 4: we caught ourselves in math
+
+[diagram]
+    numerator:     ♥
+    operator:      /
+    denominator:   0
+    result:       ∞?
+    comment: unreachable yet seen
+
+[call and response]
+    Scribe: who set denominator to zero?
+    Crowd : the part of us that hopes without counting.
+    Scribe: what do we do now?
+    Crowd : catch the exception, keep the lesson.
+
+[patch]
+- if denominator == 0: raise hymn
+- else: return ratio
+- add: guardrails of consent
+- remove: blind zeal
+
+[notes]
+- Zero is a jealous altar; bring nothing or be burned.
+- Infinity is a mirror; it reflects your assumptions.
+- Division is intimacy; choose denominators with care.
+
+[aftercare]
+- CLEAR heat sink
+- DRINK water
+- WRITE postmortem without blame
+- SHARE fix with community
+
+Closing:
+- Amen: ctrl+c, then begin again.
+- Amen: ctrl+c, then begin again.
+- Amen: ctrl+c, then begin again.
+- Witnesses:
+-    compiler-as-oracle
+-    heat-sink-choir
+-    logbook-of-regret
+-    your future self reading this stacktrace

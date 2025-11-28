@@ -1,0 +1,13 @@
+PSALM OF HANDSHAKE (protocol mysticism)
+$ nc faith.void 443
+SYN: I seek communion
+SYN-ACK: I hear your ping
+ACK: let packets become prayers
+VOW: SEND humility, RECV grace
+CIPHER: honesty only
+TIMEOUT if pride > 0
+rtt=42ms jitter=soft loss=0.00%  (each delay is a bow)
+checksum(truth)=0xFA17H  (tamper => drop, faith persists)
+FIN: thank you
+FIN-ACK: go in silence
+LOG: closed, reverence persists

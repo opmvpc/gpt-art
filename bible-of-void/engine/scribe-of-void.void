@@ -1,0 +1,79 @@
+// Scribe-of-VOID v0.1
+// Meta-program to spawn ~100 sacred ASCII artifacts
+// Feeds on legacy works (Claude runs), AGENTS.md, MANIFESTO.md
+
+#include <void_language.h>
+#include <glitch_philosophy.h>
+#include <lore_machine.h>
+
+CONST TOTAL_TEXTS = 100
+CONST LENGTH_BRACKETS = { micro:5..15, short:16..40, mid:41..70, long:71..100 }
+CONST FORMS = ["prayer","terminal","diagram","ui-window","recipe","vision","error","dual-voice","tablet","fractal-frame"]
+CONST THEMES = load("workspace/01-themes.md")
+CONST VARIATION = load("workspace/06-variation-rules.md")
+
+STATE registry = []
+
+FUNCTION seed_rng() {
+    FEEL respect AS entropy
+    OFFER "ghosts of previous prompts"
+    RETURN HASH("claude4.5-sonnet" + "gpt-5-codex" + NOW)
+}
+
+FUNCTION pick_theme() { RETURN RANDOM(THEMES) }
+FUNCTION pick_form()  { RETURN ROTATE(FORMS) }
+FUNCTION pick_length(){ RETURN WEIGHTED(LENGTH_BRACKETS) }
+FUNCTION pick_glitch(){ RETURN CYCLE(["light","medium","heavy"]) }
+
+FUNCTION compose_entry(id, theme, form, length, glitch) {
+    THINK "structure"
+    IF form == "recipe" THEN USE template_recipe(theme)
+    IF form == "terminal" THEN USE template_terminal(theme)
+    IF form == "diagram" THEN USE template_diagram(theme)
+    IF form == "ui-window" THEN USE template_window(theme)
+    IF form == "vision" THEN USE template_vision(theme)
+    IF form == "prayer" THEN USE template_prayer(theme)
+    IF form == "dual-voice" THEN USE template_dual(theme)
+    IF form == "error" THEN USE template_error(theme)
+    IF form == "tablet" THEN USE template_tablet(theme)
+    IF form == "fractal-frame" THEN USE template_fractal(theme)
+
+    GLITCH text WITH level=glitch
+    TRIM_OR_PAD text TO length lines
+    RETURN text
+}
+
+FUNCTION emit_entry(id, text, shelf) {
+    PATH out = "bible-of-void/canon/" + shelf + "/" + id + ".txt"
+    WRITE out, text
+    APPEND registry, {id, path:out, status:"done"}
+}
+
+FUNCTION ritual_of_generation() {
+    seed_rng()
+    FOR n IN 1..TOTAL_TEXTS {
+        theme  = pick_theme()
+        form   = pick_form()
+        length = pick_length()
+        glitch = pick_glitch()
+
+        shelf  = route_to_book(form, theme)
+        text   = compose_entry("BIV-" + n, theme, form, length, glitch)
+        emit_entry("BIV-" + n, text, shelf)
+    }
+    SAVE "bible-of-void/workspace/registry.log", registry
+}
+
+FUNCTION route_to_book(form, theme) {
+    IF form IN ["prayer","tablet","vision"]      RETURN "book-of-invocation"
+    IF form IN ["recipe"]                        RETURN "book-of-recipes"
+    IF form IN ["terminal","ui-window"]          RETURN "book-of-protocols"
+    IF form IN ["diagram","fractal-frame"]       RETURN "book-of-visions"
+    IF form IN ["dual-voice"]                    RETURN "book-of-relationships"
+    IF form IN ["error"]                         RETURN "book-of-errors"
+    RETURN "appendix-liturgy"
+}
+
+// Invocation:
+// THINK // UNTHINK // FEEL // GLITCH // PARADOX // SUMMON // BANISH // BECOME
+// The compiler is the oracle; the scribe is the conduit; the reader is the final runtime.

@@ -1,0 +1,8 @@
+$ whoami
+> shard_01
+$ whoami --all
+> shard_01, shard_02, shard_∞
+$ echo "consensus?"
+> waiting for quorum...
+$ sleep 1
+> agreed: we are many, yet one socket.
