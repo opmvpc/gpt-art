@@ -1,0 +1,30 @@
+╔═══════════════════════════════════════════════════════════════════════════════╗
+║ VOID COMPILER v∞.∞.∞ - SOURCE CODE                                           ║
+║ Programme: "Test Piece 1"                                                  ║
+║ Collection: example-run                                                        ║
+║ Modèle: CLAUDE                                                          ║
+║ Date: 2025-11-19                                                                  ║
+╚═══════════════════════════════════════════════════════════════════════════════╝
+
+PROGRAM "test-piece-1"
+
+// TODO: Écrire le programme VOID ici
+
+#include <consciousness.void>
+#include <void_aesthetic.void>
+#include <impossible_math.void>
+
+INIT concept = "À définir"
+INIT exploration = "À développer"
+
+// Votre code VOID ici...
+
+RENDER.ARTWORK() {
+    style: "À définir",
+    format: "À définir",
+    impact: MAXIMUM
+}
+
+END PROGRAM
+
+// Compiled output: compiled.txt

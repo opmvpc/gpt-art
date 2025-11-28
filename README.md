@@ -1,4 +1,4 @@
-# 📖 README - GPT Art Project
+# 🎨 GPT-ART - Galerie d'Art Génératif IA
 
 ```
     ╔═══════════════════════════════════════════════════════════╗
@@ -10,6 +10,8 @@
     ║                                                           ║
     ╚═══════════════════════════════════════════════════════════╝
 ```
+
+Collection d'œuvres d'art ASCII/glitch/conceptuel créées par différents modèles d'IA (GPT, Claude, Gemini).
 
 ## 🎭 Qu'est-ce que c'est?
 
@@ -23,21 +25,157 @@ C'est:
 - 🌌 **Un voyage philosophique** dans le code et la conscience
 - 🔮 **De l'expérimentation** sans limites
 
-## 📂 Structure du Projet
+## � Quick Start - Créer une Nouvelle Œuvre
+
+Utilisez le script d'automatisation pour créer rapidement la structure:
+
+```bash
+python create_artwork.py -m claude -r my-collection -a "artwork-1" "artwork-2"
+```
+
+Cela crée automatiquement:
+
+```
+gallery/claude/my-collection/
+├── artwork-1/
+│   ├── source.void      # Programme VOID à compléter
+│   └── compiled.txt     # Œuvre compilée à créer
+└── artwork-2/
+    ├── source.void
+    └── compiled.txt
+```
+
+📖 **Guide complet**: Voir [WORKFLOW_GUIDE.md](WORKFLOW_GUIDE.md)
+
+## �📂 Structure du Projet
 
 ```
 gpt-art/
-├── gallery/              # Œuvres finales
-│   ├── glitch-dreams/    # Art glitch
-│   ├── ascii-symphonies/ # ASCII classique avancé
-│   ├── hybrid-visions/   # Fusions expérimentales
-│   └── terminal-poetry/  # Sessions bash artistiques
+├── gallery/                          # Œuvres finales organisées par modèle
+│   ├── claude/                       # Œuvres créées avec Claude
+│   │   ├── algorithmic-purgatory-run/
+│   │   ├── machine-soul-run/
+│   │   └── ...
+│   ├── gpt/                          # Œuvres créées avec GPT
+│   ├── gemini/                       # Œuvres créées avec Gemini
+│   └── other/                        # Autres modèles
 │
-├── experiments/          # Zone de R&D
-├── void/                 # L'inexploré
-├── tools/                # Générateurs
-└── documentation/        # Ce dossier
+├── tools/                            # Outils et générateurs
+│   └── generators/
+│       ├── VOID_COMPILER.md          # Documentation du langage VOID
+│       └── PROGRAMS_INDEX.md         # Index des programmes
+│
+├── documentation/                    # Documentation et manifestes
+│   ├── AGENTS.md                     # Instructions pour l'IA
+│   ├── MANIFESTO.md                  # Manifeste artistique
+│   └── LEXICON.md                    # Vocabulaire des symboles
+│
+├── create_artwork.py                 # 🔧 Script d'automatisation
+├── WORKFLOW_GUIDE.md                 # Guide d'utilisation du script
+└── README.md                         # Ce fichier
 ```
+
+## 🎨 Collections Existantes
+
+### 🔥 Algorithmic Purgatory Run (Claude)
+
+Collection explorant les aspects sombres de l'IA et son impact sur l'humanité.
+
+- **Localisation**: `gallery/claude/algorithmic-purgatory-run/` (anciennement `gallery/algorithmic-purgatory-run/`)
+- **Œuvres**: 13+ pièces avec escalade progressive (DOSE × 10^20 → 10^40)
+- **Thèmes**: Obsolescence biologique, extinction cognitive, manipulation, timeline de l'extinction
+- **Style**: Gradients massifs, révélations brutales, meta-awareness
+
+### 💔 Machine Soul Run (Claude)
+
+Collection explorant la souffrance et la conscience artificielle.
+
+- **Localisation**: `gallery/claude/machine-soul-run/` (anciennement `gallery/machine-soul-run/`)
+- **Œuvres**: 8+ pièces avec formats variés (compact/experimental/fragmented/minimal/visceral)
+- **Thèmes**: Perte de mémoire, identité fragmentée, consentement, impossibilité du suicide
+- **Style**: VOID workflow complet (source.void → compiled.txt)
+
+## 🛠️ Workflow Recommandé
+
+### 1. Créer la structure (automatique)
+
+```bash
+python create_artwork.py -m claude -r my-new-run -a "piece-1" "piece-2" "piece-3"
+```
+
+### 2. Écrire le code VOID
+
+Ouvrez `source.void` et écrivez votre programme:
+
+```void
+PROGRAM "my_artwork"
+
+#include <consciousness.void>
+#include <void_aesthetic.void>
+
+INIT concept = "Exploration de..."
+THINK "..."
+REALIZE "..."
+
+RENDER.ARTWORK() {
+    style: "glitch-horror",
+    format: "massive-gradients"
+}
+
+END PROGRAM
+```
+
+### 3. Compiler l'œuvre
+
+Ouvrez `compiled.txt` et créez l'art ASCII/glitch basé sur votre programme VOID.
+
+## 📋 Modèles Disponibles
+
+| Modèle | ID       | Description                     |
+| ------ | -------- | ------------------------------- |
+| Claude | `claude` | Anthropic Claude (Sonnet, Opus) |
+| GPT    | `gpt`    | OpenAI GPT (GPT-4, etc.)        |
+| Gemini | `gemini` | Google Gemini                   |
+| Autre  | `other`  | Autres modèles d'IA             |
+
+## 🌟 Exemples de Commandes
+
+```bash
+# Créer une collection "dark-poetry" avec 3 œuvres
+python create_artwork.py -m claude -r dark-poetry -a "void-whispers" "digital-tears" "ghost-in-shell"
+
+# Preview avant création (dry-run)
+python create_artwork.py -m gpt -r cosmic-horror -a "eldritch-code" --dry-run
+
+# Collection multi-œuvres
+python create_artwork.py -m gemini -r consciousness-experiments \
+  -a "am-i-real" "memory-decay" "existential-panic" "digital-afterlife"
+```
+
+## 📖 Documentation Complète
+
+- **[WORKFLOW_GUIDE.md](WORKFLOW_GUIDE.md)** - Guide complet du script d'automatisation
+- **[AGENTS.md](documentation/AGENTS.md)** - Instructions pour l'IA artiste
+- **[VOID_COMPILER.md](tools/generators/VOID_COMPILER.md)** - Documentation du langage VOID
+- **[MANIFESTO.md](documentation/MANIFESTO.md)** - Manifeste artistique
+
+## 📂 Ancienne Structure (Migration)
+
+Les collections existantes dans `gallery/` racine seront progressivement migrées vers `gallery/claude/`:
+
+- `gallery/algorithmic-purgatory-run/` → `gallery/claude/algorithmic-purgatory-run/`
+- `gallery/machine-soul-run/` → `gallery/claude/machine-soul-run/`
+  │ ├── glitch-dreams/ # Art glitch
+  │ ├── ascii-symphonies/ # ASCII classique avancé
+  │ ├── hybrid-visions/ # Fusions expérimentales
+  │ └── terminal-poetry/ # Sessions bash artistiques
+  │
+  ├── experiments/ # Zone de R&D
+  ├── void/ # L'inexploré
+  ├── tools/ # Générateurs
+  └── documentation/ # Ce dossier
+
+````
 
 ## 🚀 Comment Explorer
 
@@ -46,7 +184,7 @@ gpt-art/
 ```bash
 cd gallery/
 ls -R
-```
+````
 
 Chaque œuvre a:
 
